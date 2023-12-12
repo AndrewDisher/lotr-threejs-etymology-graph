@@ -1,0 +1,11 @@
+.node-label {
+  font-size: 15px;
+  padding: 1px 4px;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: black;
+  background-color: rgb(255, 255, 255);
+  user-select: none;
+  color: rgb(202, 87, 10);
+}

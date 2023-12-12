@@ -1,0 +1,10586 @@
+{
+  "nodes": [
+    {
+      "id": "Akkadian",
+      "value": 13
+    },
+    {
+      "id": "Albanian",
+      "value": 105
+    },
+    {
+      "id": "Arabic",
+      "value": 340
+    },
+    {
+      "id": "Aramaic",
+      "value": 137
+    },
+    {
+      "id": "Arawak",
+      "value": 2
+    },
+    {
+      "id": "Armenian",
+      "value": 2670
+    },
+    {
+      "id": "Austronesian",
+      "value": 3
+    },
+    {
+      "id": "Avestan",
+      "value": 12272
+    },
+    {
+      "id": "Basque",
+      "value": 165
+    },
+    {
+      "id": "Breton",
+      "value": 1540
+    },
+    {
+      "id": "Carib",
+      "value": 5
+    },
+    {
+      "id": "Catalan",
+      "value": 801
+    },
+    {
+      "id": "Celtic",
+      "value": 1753
+    },
+    {
+      "id": "Cherokee",
+      "value": 51
+    },
+    {
+      "id": "Chinese",
+      "value": 1640
+    },
+    {
+      "id": "Church Slavonic",
+      "value": 50717
+    },
+    {
+      "id": "Coptic",
+      "value": 19
+    },
+    {
+      "id": "Cornish",
+      "value": 143
+    },
+    {
+      "id": "Cree",
+      "value": 29
+    },
+    {
+      "id": "Croatian",
+      "value": 145
+    },
+    {
+      "id": "Czech",
+      "value": 107
+    },
+    {
+      "id": "Danish",
+      "value": 45348
+    },
+    {
+      "id": "Delaware",
+      "value": 51
+    },
+    {
+      "id": "Dravidian",
+      "value": 3
+    },
+    {
+      "id": "Dutch",
+      "value": 186466
+    },
+    {
+      "id": "Egyptian",
+      "value": 52
+    },
+    {
+      "id": "Estonian",
+      "value": 2
+    },
+    {
+      "id": "Fang",
+      "value": 6
+    },
+    {
+      "id": "Finnish",
+      "value": 2085
+    },
+    {
+      "id": "Flemish",
+      "value": 643
+    },
+    {
+      "id": "Fon",
+      "value": 1
+    },
+    {
+      "id": "French",
+      "value": 62239
+    },
+    {
+      "id": "Frisian",
+      "value": 178294
+    },
+    {
+      "id": "Ga",
+      "value": 4221
+    },
+    {
+      "id": "Gaelic",
+      "value": 394
+    },
+    {
+      "id": "Georgian",
+      "value": 26
+    },
+    {
+      "id": "German",
+      "value": 254507
+    },
+    {
+      "id": "Germanic",
+      "value": 240390
+    },
+    {
+      "id": "Gothic",
+      "value": 101370
+    },
+    {
+      "id": "Greek",
+      "value": 54606
+    },
+    {
+      "id": "Haitian",
+      "value": 2
+    },
+    {
+      "id": "Hawaiian",
+      "value": 8
+    },
+    {
+      "id": "Hebrew",
+      "value": 1872
+    },
+    {
+      "id": "Hindi",
+      "value": 19
+    },
+    {
+      "id": "Hittite",
+      "value": 12466
+    },
+    {
+      "id": "Hungarian",
+      "value": 19
+    },
+    {
+      "id": "Icelandic",
+      "value": 1183
+    },
+    {
+      "id": "Indic",
+      "value": 10
+    },
+    {
+      "id": "Indo-European",
+      "value": 5613
+    },
+    {
+      "id": "Iranian",
+      "value": 606
+    },
+    {
+      "id": "Irish",
+      "value": 38850
+    },
+    {
+      "id": "Italian",
+      "value": 10395
+    },
+    {
+      "id": "Japanese",
+      "value": 416
+    },
+    {
+      "id": "Korean",
+      "value": 71
+    },
+    {
+      "id": "Kru",
+      "value": 17
+    },
+    {
+      "id": "Lao",
+      "value": 46
+    },
+    {
+      "id": "Latin",
+      "value": 114674
+    },
+    {
+      "id": "Latvian",
+      "value": 119
+    },
+    {
+      "id": "Lithuanian",
+      "value": 47864
+    },
+    {
+      "id": "Low German",
+      "value": 5847
+    },
+    {
+      "id": "Macedonian",
+      "value": 2
+    },
+    {
+      "id": "Malay",
+      "value": 13
+    },
+    {
+      "id": "Malayalam",
+      "value": 2
+    },
+    {
+      "id": "Manchu",
+      "value": 4
+    },
+    {
+      "id": "Mandar",
+      "value": 8
+    },
+    {
+      "id": "Manx",
+      "value": 5
+    },
+    {
+      "id": "Maori",
+      "value": 20
+    },
+    {
+      "id": "Mari",
+      "value": 896
+    },
+    {
+      "id": "Middle Dutch",
+      "value": 106562
+    },
+    {
+      "id": "Middle English",
+      "value": 149372
+    },
+    {
+      "id": "Middle French",
+      "value": 3
+    },
+    {
+      "id": "Middle High German",
+      "value": 7396
+    },
+    {
+      "id": "Middle Irish",
+      "value": 580
+    },
+    {
+      "id": "Modern Greek",
+      "value": 128
+    },
+    {
+      "id": "Mongo",
+      "value": 4
+    },
+    {
+      "id": "Mongolian",
+      "value": 4
+    },
+    {
+      "id": "Nahuatl",
+      "value": 52
+    },
+    {
+      "id": "Neapolitan",
+      "value": 1
+    },
+    {
+      "id": "North American Indian",
+      "value": 1372
+    },
+    {
+      "id": "Norwegian",
+      "value": 1702
+    },
+    {
+      "id": "Occitan",
+      "value": 6
+    },
+    {
+      "id": "Ojibwa",
+      "value": 1146
+    },
+    {
+      "id": "Old Church Slavonic",
+      "value": 50717
+    },
+    {
+      "id": "Old English",
+      "value": 273619
+    },
+    {
+      "id": "Old French",
+      "value": 42843
+    },
+    {
+      "id": "Old High German",
+      "value": 161115
+    },
+    {
+      "id": "Old Irish",
+      "value": 36733
+    },
+    {
+      "id": "Old Norse",
+      "value": 157246
+    },
+    {
+      "id": "Old Persian",
+      "value": 7915
+    },
+    {
+      "id": "Old Provençal",
+      "value": 214
+    },
+    {
+      "id": "Ossetian",
+      "value": 10
+    },
+    {
+      "id": "Pali",
+      "value": 77
+    },
+    {
+      "id": "Persian",
+      "value": 8344
+    },
+    {
+      "id": "Phoenician",
+      "value": 4
+    },
+    {
+      "id": "Polish",
+      "value": 802
+    },
+    {
+      "id": "Portuguese",
+      "value": 1934
+    },
+    {
+      "id": "Provençal",
+      "value": 652
+    },
+    {
+      "id": "Romance",
+      "value": 692
+    },
+    {
+      "id": "Romanian",
+      "value": 17
+    },
+    {
+      "id": "Russian",
+      "value": 23873
+    },
+    {
+      "id": "Sanskrit",
+      "value": 23184
+    },
+    {
+      "id": "Scots",
+      "value": 659
+    },
+    {
+      "id": "Semitic",
+      "value": 35
+    },
+    {
+      "id": "Slavic",
+      "value": 3211
+    },
+    {
+      "id": "Slovenian",
+      "value": 27
+    },
+    {
+      "id": "Somali",
+      "value": 10
+    },
+    {
+      "id": "Spanish",
+      "value": 10245
+    },
+    {
+      "id": "Swedish",
+      "value": 30471
+    },
+    {
+      "id": "Syriac",
+      "value": 1
+    },
+    {
+      "id": "Tai",
+      "value": 2
+    },
+    {
+      "id": "Tamil",
+      "value": 2
+    },
+    {
+      "id": "Telugu",
+      "value": 2
+    },
+    {
+      "id": "Thai",
+      "value": 1
+    },
+    {
+      "id": "Tibetan",
+      "value": 6
+    },
+    {
+      "id": "Turkish",
+      "value": 82
+    },
+    {
+      "id": "Twi",
+      "value": 78
+    },
+    {
+      "id": "Vai",
+      "value": 36
+    },
+    {
+      "id": "Walloon",
+      "value": 13
+    },
+    {
+      "id": "Welsh",
+      "value": 6132
+    },
+    {
+      "id": "Yiddish",
+      "value": 647
+    }
+  ],
+  "links": [
+    {
+      "source": "Akkadian",
+      "target": "Arabic",
+      "value": 9
+    },
+    {
+      "source": "Akkadian",
+      "target": "French",
+      "value": 4
+    },
+    {
+      "source": "Akkadian",
+      "target": "Greek",
+      "value": 4
+    },
+    {
+      "source": "Akkadian",
+      "target": "Hebrew",
+      "value": 9
+    },
+    {
+      "source": "Akkadian",
+      "target": "Latin",
+      "value": 4
+    },
+    {
+      "source": "Akkadian",
+      "target": "Old English",
+      "value": 4
+    },
+    {
+      "source": "Akkadian",
+      "target": "Old French",
+      "value": 4
+    },
+    {
+      "source": "Akkadian",
+      "target": "Semitic",
+      "value": 4
+    },
+    {
+      "source": "Albanian",
+      "target": "Armenian",
+      "value": 4
+    },
+    {
+      "source": "Albanian",
+      "target": "Carib",
+      "value": 2
+    },
+    {
+      "source": "Albanian",
+      "target": "Celtic",
+      "value": 4
+    },
+    {
+      "source": "Albanian",
+      "target": "Chinese",
+      "value": 2
+    },
+    {
+      "source": "Albanian",
+      "target": "Church Slavonic",
+      "value": 2
+    },
+    {
+      "source": "Albanian",
+      "target": "Croatian",
+      "value": 3
+    },
+    {
+      "source": "Albanian",
+      "target": "Czech",
+      "value": 50
+    },
+    {
+      "source": "Albanian",
+      "target": "Danish",
+      "value": 1
+    },
+    {
+      "source": "Albanian",
+      "target": "Dutch",
+      "value": 80
+    },
+    {
+      "source": "Albanian",
+      "target": "French",
+      "value": 29
+    },
+    {
+      "source": "Albanian",
+      "target": "Frisian",
+      "value": 50
+    },
+    {
+      "source": "Albanian",
+      "target": "Ga",
+      "value": 3
+    },
+    {
+      "source": "Albanian",
+      "target": "Gaelic",
+      "value": 3
+    },
+    {
+      "source": "Albanian",
+      "target": "German",
+      "value": 96
+    },
+    {
+      "source": "Albanian",
+      "target": "Germanic",
+      "value": 80
+    },
+    {
+      "source": "Albanian",
+      "target": "Gothic",
+      "value": 80
+    },
+    {
+      "source": "Albanian",
+      "target": "Greek",
+      "value": 84
+    },
+    {
+      "source": "Albanian",
+      "target": "Hebrew",
+      "value": 14
+    },
+    {
+      "source": "Albanian",
+      "target": "Hungarian",
+      "value": 3
+    },
+    {
+      "source": "Albanian",
+      "target": "Irish",
+      "value": 64
+    },
+    {
+      "source": "Albanian",
+      "target": "Italian",
+      "value": 7
+    },
+    {
+      "source": "Albanian",
+      "target": "Kru",
+      "value": 6
+    },
+    {
+      "source": "Albanian",
+      "target": "Latin",
+      "value": 47
+    },
+    {
+      "source": "Albanian",
+      "target": "Latvian",
+      "value": 52
+    },
+    {
+      "source": "Albanian",
+      "target": "Lithuanian",
+      "value": 57
+    },
+    {
+      "source": "Albanian",
+      "target": "Middle Dutch",
+      "value": 12
+    },
+    {
+      "source": "Albanian",
+      "target": "Middle English",
+      "value": 24
+    },
+    {
+      "source": "Albanian",
+      "target": "Old Church Slavonic",
+      "value": 2
+    },
+    {
+      "source": "Albanian",
+      "target": "Old English",
+      "value": 94
+    },
+    {
+      "source": "Albanian",
+      "target": "Old French",
+      "value": 27
+    },
+    {
+      "source": "Albanian",
+      "target": "Old High German",
+      "value": 85
+    },
+    {
+      "source": "Albanian",
+      "target": "Old Irish",
+      "value": 64
+    },
+    {
+      "source": "Albanian",
+      "target": "Old Norse",
+      "value": 65
+    },
+    {
+      "source": "Albanian",
+      "target": "Persian",
+      "value": 2
+    },
+    {
+      "source": "Albanian",
+      "target": "Polish",
+      "value": 5
+    },
+    {
+      "source": "Albanian",
+      "target": "Romance",
+      "value": 2
+    },
+    {
+      "source": "Albanian",
+      "target": "Russian",
+      "value": 58
+    },
+    {
+      "source": "Albanian",
+      "target": "Sanskrit",
+      "value": 34
+    },
+    {
+      "source": "Albanian",
+      "target": "Slavic",
+      "value": 2
+    },
+    {
+      "source": "Albanian",
+      "target": "Spanish",
+      "value": 5
+    },
+    {
+      "source": "Albanian",
+      "target": "Swedish",
+      "value": 4
+    },
+    {
+      "source": "Albanian",
+      "target": "Welsh",
+      "value": 16
+    },
+    {
+      "source": "Arabic",
+      "target": "Catalan",
+      "value": 15
+    },
+    {
+      "source": "Arabic",
+      "target": "Chinese",
+      "value": 8
+    },
+    {
+      "source": "Arabic",
+      "target": "Church Slavonic",
+      "value": 1
+    },
+    {
+      "source": "Arabic",
+      "target": "Danish",
+      "value": 9
+    },
+    {
+      "source": "Arabic",
+      "target": "Dutch",
+      "value": 9
+    },
+    {
+      "source": "Arabic",
+      "target": "Egyptian",
+      "value": 1
+    },
+    {
+      "source": "Arabic",
+      "target": "French",
+      "value": 321
+    },
+    {
+      "source": "Arabic",
+      "target": "Frisian",
+      "value": 9
+    },
+    {
+      "source": "Arabic",
+      "target": "Ga",
+      "value": 2
+    },
+    {
+      "source": "Arabic",
+      "target": "German",
+      "value": 50
+    },
+    {
+      "source": "Arabic",
+      "target": "Germanic",
+      "value": 15
+    },
+    {
+      "source": "Arabic",
+      "target": "Gothic",
+      "value": 9
+    },
+    {
+      "source": "Arabic",
+      "target": "Greek",
+      "value": 24
+    },
+    {
+      "source": "Arabic",
+      "target": "Hebrew",
+      "value": 11
+    },
+    {
+      "source": "Arabic",
+      "target": "Hungarian",
+      "value": 9
+    },
+    {
+      "source": "Arabic",
+      "target": "Indo-European",
+      "value": 6
+    },
+    {
+      "source": "Arabic",
+      "target": "Irish",
+      "value": 38
+    },
+    {
+      "source": "Arabic",
+      "target": "Italian",
+      "value": 233
+    },
+    {
+      "source": "Arabic",
+      "target": "Latin",
+      "value": 294
+    },
+    {
+      "source": "Arabic",
+      "target": "Malay",
+      "value": 8
+    },
+    {
+      "source": "Arabic",
+      "target": "Mandar",
+      "value": 8
+    },
+    {
+      "source": "Arabic",
+      "target": "Middle English",
+      "value": 53
+    },
+    {
+      "source": "Arabic",
+      "target": "Occitan",
+      "value": 6
+    },
+    {
+      "source": "Arabic",
+      "target": "Old Church Slavonic",
+      "value": 1
+    },
+    {
+      "source": "Arabic",
+      "target": "Old English",
+      "value": 38
+    },
+    {
+      "source": "Arabic",
+      "target": "Old French",
+      "value": 276
+    },
+    {
+      "source": "Arabic",
+      "target": "Old High German",
+      "value": 9
+    },
+    {
+      "source": "Arabic",
+      "target": "Old Irish",
+      "value": 4
+    },
+    {
+      "source": "Arabic",
+      "target": "Old Norse",
+      "value": 9
+    },
+    {
+      "source": "Arabic",
+      "target": "Persian",
+      "value": 14
+    },
+    {
+      "source": "Arabic",
+      "target": "Polish",
+      "value": 9
+    },
+    {
+      "source": "Arabic",
+      "target": "Portuguese",
+      "value": 9
+    },
+    {
+      "source": "Arabic",
+      "target": "Provençal",
+      "value": 15
+    },
+    {
+      "source": "Arabic",
+      "target": "Russian",
+      "value": 45
+    },
+    {
+      "source": "Arabic",
+      "target": "Sanskrit",
+      "value": 1
+    },
+    {
+      "source": "Arabic",
+      "target": "Semitic",
+      "value": 5
+    },
+    {
+      "source": "Arabic",
+      "target": "Slavic",
+      "value": 9
+    },
+    {
+      "source": "Arabic",
+      "target": "Spanish",
+      "value": 275
+    },
+    {
+      "source": "Arabic",
+      "target": "Turkish",
+      "value": 9
+    },
+    {
+      "source": "Arabic",
+      "target": "Welsh",
+      "value": 29
+    },
+    {
+      "source": "Aramaic",
+      "target": "Croatian",
+      "value": 6
+    },
+    {
+      "source": "Aramaic",
+      "target": "Dutch",
+      "value": 6
+    },
+    {
+      "source": "Aramaic",
+      "target": "French",
+      "value": 137
+    },
+    {
+      "source": "Aramaic",
+      "target": "German",
+      "value": 13
+    },
+    {
+      "source": "Aramaic",
+      "target": "Greek",
+      "value": 14
+    },
+    {
+      "source": "Aramaic",
+      "target": "Hebrew",
+      "value": 130
+    },
+    {
+      "source": "Aramaic",
+      "target": "Hungarian",
+      "value": 6
+    },
+    {
+      "source": "Aramaic",
+      "target": "Iranian",
+      "value": 6
+    },
+    {
+      "source": "Aramaic",
+      "target": "Irish",
+      "value": 6
+    },
+    {
+      "source": "Aramaic",
+      "target": "Italian",
+      "value": 14
+    },
+    {
+      "source": "Aramaic",
+      "target": "Latin",
+      "value": 136
+    },
+    {
+      "source": "Aramaic",
+      "target": "Lithuanian",
+      "value": 6
+    },
+    {
+      "source": "Aramaic",
+      "target": "Old English",
+      "value": 13
+    },
+    {
+      "source": "Aramaic",
+      "target": "Old French",
+      "value": 130
+    },
+    {
+      "source": "Aramaic",
+      "target": "Old High German",
+      "value": 7
+    },
+    {
+      "source": "Aramaic",
+      "target": "Old Persian",
+      "value": 6
+    },
+    {
+      "source": "Aramaic",
+      "target": "Persian",
+      "value": 6
+    },
+    {
+      "source": "Aramaic",
+      "target": "Polish",
+      "value": 6
+    },
+    {
+      "source": "Aramaic",
+      "target": "Russian",
+      "value": 6
+    },
+    {
+      "source": "Aramaic",
+      "target": "Semitic",
+      "value": 8
+    },
+    {
+      "source": "Aramaic",
+      "target": "Spanish",
+      "value": 13
+    },
+    {
+      "source": "Aramaic",
+      "target": "Swedish",
+      "value": 6
+    },
+    {
+      "source": "Aramaic",
+      "target": "Turkish",
+      "value": 6
+    },
+    {
+      "source": "Aramaic",
+      "target": "Welsh",
+      "value": 6
+    },
+    {
+      "source": "Arawak",
+      "target": "Breton",
+      "value": 2
+    },
+    {
+      "source": "Arawak",
+      "target": "Carib",
+      "value": 2
+    },
+    {
+      "source": "Arawak",
+      "target": "French",
+      "value": 2
+    },
+    {
+      "source": "Arawak",
+      "target": "German",
+      "value": 2
+    },
+    {
+      "source": "Arawak",
+      "target": "Haitian",
+      "value": 2
+    },
+    {
+      "source": "Arawak",
+      "target": "Portuguese",
+      "value": 2
+    },
+    {
+      "source": "Arawak",
+      "target": "Spanish",
+      "value": 2
+    },
+    {
+      "source": "Arawak",
+      "target": "Tai",
+      "value": 2
+    },
+    {
+      "source": "Armenian",
+      "target": "Avestan",
+      "value": 767
+    },
+    {
+      "source": "Armenian",
+      "target": "Breton",
+      "value": 22
+    },
+    {
+      "source": "Armenian",
+      "target": "Church Slavonic",
+      "value": 1159
+    },
+    {
+      "source": "Armenian",
+      "target": "Danish",
+      "value": 1126
+    },
+    {
+      "source": "Armenian",
+      "target": "Dutch",
+      "value": 2495
+    },
+    {
+      "source": "Armenian",
+      "target": "French",
+      "value": 124
+    },
+    {
+      "source": "Armenian",
+      "target": "Frisian",
+      "value": 2443
+    },
+    {
+      "source": "Armenian",
+      "target": "Georgian",
+      "value": 1
+    },
+    {
+      "source": "Armenian",
+      "target": "German",
+      "value": 2542
+    },
+    {
+      "source": "Armenian",
+      "target": "Germanic",
+      "value": 2537
+    },
+    {
+      "source": "Armenian",
+      "target": "Gothic",
+      "value": 2065
+    },
+    {
+      "source": "Armenian",
+      "target": "Greek",
+      "value": 1752
+    },
+    {
+      "source": "Armenian",
+      "target": "Hebrew",
+      "value": 1
+    },
+    {
+      "source": "Armenian",
+      "target": "Hittite",
+      "value": 33
+    },
+    {
+      "source": "Armenian",
+      "target": "Indo-European",
+      "value": 343
+    },
+    {
+      "source": "Armenian",
+      "target": "Irish",
+      "value": 864
+    },
+    {
+      "source": "Armenian",
+      "target": "Italian",
+      "value": 16
+    },
+    {
+      "source": "Armenian",
+      "target": "Latin",
+      "value": 1725
+    },
+    {
+      "source": "Armenian",
+      "target": "Lithuanian",
+      "value": 1711
+    },
+    {
+      "source": "Armenian",
+      "target": "Middle Dutch",
+      "value": 1156
+    },
+    {
+      "source": "Armenian",
+      "target": "Middle English",
+      "value": 2510
+    },
+    {
+      "source": "Armenian",
+      "target": "Middle Irish",
+      "value": 16
+    },
+    {
+      "source": "Armenian",
+      "target": "Old Church Slavonic",
+      "value": 1159
+    },
+    {
+      "source": "Armenian",
+      "target": "Old English",
+      "value": 2644
+    },
+    {
+      "source": "Armenian",
+      "target": "Old French",
+      "value": 123
+    },
+    {
+      "source": "Armenian",
+      "target": "Old High German",
+      "value": 2490
+    },
+    {
+      "source": "Armenian",
+      "target": "Old Irish",
+      "value": 811
+    },
+    {
+      "source": "Armenian",
+      "target": "Old Norse",
+      "value": 2158
+    },
+    {
+      "source": "Armenian",
+      "target": "Persian",
+      "value": 73
+    },
+    {
+      "source": "Armenian",
+      "target": "Russian",
+      "value": 772
+    },
+    {
+      "source": "Armenian",
+      "target": "Sanskrit",
+      "value": 2073
+    },
+    {
+      "source": "Armenian",
+      "target": "Semitic",
+      "value": 1
+    },
+    {
+      "source": "Armenian",
+      "target": "Slavic",
+      "value": 778
+    },
+    {
+      "source": "Armenian",
+      "target": "Spanish",
+      "value": 16
+    },
+    {
+      "source": "Armenian",
+      "target": "Swedish",
+      "value": 793
+    },
+    {
+      "source": "Armenian",
+      "target": "Welsh",
+      "value": 864
+    },
+    {
+      "source": "Austronesian",
+      "target": "Malay",
+      "value": 3
+    },
+    {
+      "source": "Avestan",
+      "target": "Breton",
+      "value": 49
+    },
+    {
+      "source": "Avestan",
+      "target": "Church Slavonic",
+      "value": 10188
+    },
+    {
+      "source": "Avestan",
+      "target": "Danish",
+      "value": 831
+    },
+    {
+      "source": "Avestan",
+      "target": "Delaware",
+      "value": 35
+    },
+    {
+      "source": "Avestan",
+      "target": "Dutch",
+      "value": 11895
+    },
+    {
+      "source": "Avestan",
+      "target": "Flemish",
+      "value": 14
+    },
+    {
+      "source": "Avestan",
+      "target": "French",
+      "value": 3309
+    },
+    {
+      "source": "Avestan",
+      "target": "Frisian",
+      "value": 5752
+    },
+    {
+      "source": "Avestan",
+      "target": "Ga",
+      "value": 23
+    },
+    {
+      "source": "Avestan",
+      "target": "German",
+      "value": 12077
+    },
+    {
+      "source": "Avestan",
+      "target": "Germanic",
+      "value": 12036
+    },
+    {
+      "source": "Avestan",
+      "target": "Gothic",
+      "value": 11809
+    },
+    {
+      "source": "Avestan",
+      "target": "Greek",
+      "value": 8193
+    },
+    {
+      "source": "Avestan",
+      "target": "Hittite",
+      "value": 2127
+    },
+    {
+      "source": "Avestan",
+      "target": "Indo-European",
+      "value": 387
+    },
+    {
+      "source": "Avestan",
+      "target": "Iranian",
+      "value": 271
+    },
+    {
+      "source": "Avestan",
+      "target": "Irish",
+      "value": 3632
+    },
+    {
+      "source": "Avestan",
+      "target": "Italian",
+      "value": 102
+    },
+    {
+      "source": "Avestan",
+      "target": "Latin",
+      "value": 10879
+    },
+    {
+      "source": "Avestan",
+      "target": "Lithuanian",
+      "value": 5731
+    },
+    {
+      "source": "Avestan",
+      "target": "Low German",
+      "value": 46
+    },
+    {
+      "source": "Avestan",
+      "target": "Middle Dutch",
+      "value": 5148
+    },
+    {
+      "source": "Avestan",
+      "target": "Middle English",
+      "value": 6762
+    },
+    {
+      "source": "Avestan",
+      "target": "Middle Irish",
+      "value": 60
+    },
+    {
+      "source": "Avestan",
+      "target": "Old Church Slavonic",
+      "value": 10188
+    },
+    {
+      "source": "Avestan",
+      "target": "Old English",
+      "value": 12066
+    },
+    {
+      "source": "Avestan",
+      "target": "Old French",
+      "value": 196
+    },
+    {
+      "source": "Avestan",
+      "target": "Old High German",
+      "value": 3951
+    },
+    {
+      "source": "Avestan",
+      "target": "Old Irish",
+      "value": 3568
+    },
+    {
+      "source": "Avestan",
+      "target": "Old Norse",
+      "value": 8866
+    },
+    {
+      "source": "Avestan",
+      "target": "Old Persian",
+      "value": 2437
+    },
+    {
+      "source": "Avestan",
+      "target": "Persian",
+      "value": 2595
+    },
+    {
+      "source": "Avestan",
+      "target": "Polish",
+      "value": 27
+    },
+    {
+      "source": "Avestan",
+      "target": "Russian",
+      "value": 1854
+    },
+    {
+      "source": "Avestan",
+      "target": "Sanskrit",
+      "value": 7895
+    },
+    {
+      "source": "Avestan",
+      "target": "Spanish",
+      "value": 102
+    },
+    {
+      "source": "Avestan",
+      "target": "Swedish",
+      "value": 138
+    },
+    {
+      "source": "Avestan",
+      "target": "Welsh",
+      "value": 948
+    },
+    {
+      "source": "Basque",
+      "target": "Breton",
+      "value": 18
+    },
+    {
+      "source": "Basque",
+      "target": "Celtic",
+      "value": 147
+    },
+    {
+      "source": "Basque",
+      "target": "Church Slavonic",
+      "value": 147
+    },
+    {
+      "source": "Basque",
+      "target": "Dutch",
+      "value": 147
+    },
+    {
+      "source": "Basque",
+      "target": "French",
+      "value": 18
+    },
+    {
+      "source": "Basque",
+      "target": "Frisian",
+      "value": 147
+    },
+    {
+      "source": "Basque",
+      "target": "Ga",
+      "value": 18
+    },
+    {
+      "source": "Basque",
+      "target": "Gaelic",
+      "value": 18
+    },
+    {
+      "source": "Basque",
+      "target": "German",
+      "value": 165
+    },
+    {
+      "source": "Basque",
+      "target": "Germanic",
+      "value": 165
+    },
+    {
+      "source": "Basque",
+      "target": "Gothic",
+      "value": 147
+    },
+    {
+      "source": "Basque",
+      "target": "Icelandic",
+      "value": 18
+    },
+    {
+      "source": "Basque",
+      "target": "Irish",
+      "value": 18
+    },
+    {
+      "source": "Basque",
+      "target": "Latin",
+      "value": 147
+    },
+    {
+      "source": "Basque",
+      "target": "Lithuanian",
+      "value": 147
+    },
+    {
+      "source": "Basque",
+      "target": "Middle Dutch",
+      "value": 147
+    },
+    {
+      "source": "Basque",
+      "target": "Middle English",
+      "value": 147
+    },
+    {
+      "source": "Basque",
+      "target": "Old Church Slavonic",
+      "value": 147
+    },
+    {
+      "source": "Basque",
+      "target": "Old English",
+      "value": 165
+    },
+    {
+      "source": "Basque",
+      "target": "Old French",
+      "value": 18
+    },
+    {
+      "source": "Basque",
+      "target": "Old High German",
+      "value": 147
+    },
+    {
+      "source": "Basque",
+      "target": "Old Norse",
+      "value": 165
+    },
+    {
+      "source": "Basque",
+      "target": "Polish",
+      "value": 147
+    },
+    {
+      "source": "Basque",
+      "target": "Russian",
+      "value": 147
+    },
+    {
+      "source": "Basque",
+      "target": "Slavic",
+      "value": 147
+    },
+    {
+      "source": "Basque",
+      "target": "Welsh",
+      "value": 18
+    },
+    {
+      "source": "Breton",
+      "target": "Carib",
+      "value": 2
+    },
+    {
+      "source": "Breton",
+      "target": "Celtic",
+      "value": 13
+    },
+    {
+      "source": "Breton",
+      "target": "Church Slavonic",
+      "value": 59
+    },
+    {
+      "source": "Breton",
+      "target": "Cornish",
+      "value": 3
+    },
+    {
+      "source": "Breton",
+      "target": "Danish",
+      "value": 173
+    },
+    {
+      "source": "Breton",
+      "target": "Delaware",
+      "value": 35
+    },
+    {
+      "source": "Breton",
+      "target": "Dutch",
+      "value": 1376
+    },
+    {
+      "source": "Breton",
+      "target": "Flemish",
+      "value": 38
+    },
+    {
+      "source": "Breton",
+      "target": "French",
+      "value": 107
+    },
+    {
+      "source": "Breton",
+      "target": "Frisian",
+      "value": 244
+    },
+    {
+      "source": "Breton",
+      "target": "Ga",
+      "value": 38
+    },
+    {
+      "source": "Breton",
+      "target": "Gaelic",
+      "value": 21
+    },
+    {
+      "source": "Breton",
+      "target": "German",
+      "value": 1479
+    },
+    {
+      "source": "Breton",
+      "target": "Germanic",
+      "value": 1464
+    },
+    {
+      "source": "Breton",
+      "target": "Gothic",
+      "value": 231
+    },
+    {
+      "source": "Breton",
+      "target": "Greek",
+      "value": 188
+    },
+    {
+      "source": "Breton",
+      "target": "Haitian",
+      "value": 2
+    },
+    {
+      "source": "Breton",
+      "target": "Hebrew",
+      "value": 24
+    },
+    {
+      "source": "Breton",
+      "target": "Hittite",
+      "value": 128
+    },
+    {
+      "source": "Breton",
+      "target": "Icelandic",
+      "value": 18
+    },
+    {
+      "source": "Breton",
+      "target": "Indo-European",
+      "value": 16
+    },
+    {
+      "source": "Breton",
+      "target": "Irish",
+      "value": 233
+    },
+    {
+      "source": "Breton",
+      "target": "Italian",
+      "value": 15
+    },
+    {
+      "source": "Breton",
+      "target": "Latin",
+      "value": 295
+    },
+    {
+      "source": "Breton",
+      "target": "Lithuanian",
+      "value": 176
+    },
+    {
+      "source": "Breton",
+      "target": "Low German",
+      "value": 5
+    },
+    {
+      "source": "Breton",
+      "target": "Manx",
+      "value": 5
+    },
+    {
+      "source": "Breton",
+      "target": "Middle Dutch",
+      "value": 1371
+    },
+    {
+      "source": "Breton",
+      "target": "Middle English",
+      "value": 129
+    },
+    {
+      "source": "Breton",
+      "target": "Middle High German",
+      "value": 106
+    },
+    {
+      "source": "Breton",
+      "target": "Middle Irish",
+      "value": 16
+    },
+    {
+      "source": "Breton",
+      "target": "Old Church Slavonic",
+      "value": 59
+    },
+    {
+      "source": "Breton",
+      "target": "Old English",
+      "value": 1495
+    },
+    {
+      "source": "Breton",
+      "target": "Old French",
+      "value": 72
+    },
+    {
+      "source": "Breton",
+      "target": "Old High German",
+      "value": 1448
+    },
+    {
+      "source": "Breton",
+      "target": "Old Irish",
+      "value": 174
+    },
+    {
+      "source": "Breton",
+      "target": "Old Norse",
+      "value": 295
+    },
+    {
+      "source": "Breton",
+      "target": "Polish",
+      "value": 14
+    },
+    {
+      "source": "Breton",
+      "target": "Portuguese",
+      "value": 15
+    },
+    {
+      "source": "Breton",
+      "target": "Russian",
+      "value": 3
+    },
+    {
+      "source": "Breton",
+      "target": "Sanskrit",
+      "value": 147
+    },
+    {
+      "source": "Breton",
+      "target": "Spanish",
+      "value": 20
+    },
+    {
+      "source": "Breton",
+      "target": "Swedish",
+      "value": 67
+    },
+    {
+      "source": "Breton",
+      "target": "Tai",
+      "value": 2
+    },
+    {
+      "source": "Breton",
+      "target": "Welsh",
+      "value": 182
+    },
+    {
+      "source": "Carib",
+      "target": "Dutch",
+      "value": 2
+    },
+    {
+      "source": "Carib",
+      "target": "French",
+      "value": 2
+    },
+    {
+      "source": "Carib",
+      "target": "German",
+      "value": 4
+    },
+    {
+      "source": "Carib",
+      "target": "Germanic",
+      "value": 2
+    },
+    {
+      "source": "Carib",
+      "target": "Greek",
+      "value": 3
+    },
+    {
+      "source": "Carib",
+      "target": "Haitian",
+      "value": 2
+    },
+    {
+      "source": "Carib",
+      "target": "Latin",
+      "value": 3
+    },
+    {
+      "source": "Carib",
+      "target": "Middle Dutch",
+      "value": 2
+    },
+    {
+      "source": "Carib",
+      "target": "Middle English",
+      "value": 1
+    },
+    {
+      "source": "Carib",
+      "target": "Old English",
+      "value": 3
+    },
+    {
+      "source": "Carib",
+      "target": "Old High German",
+      "value": 2
+    },
+    {
+      "source": "Carib",
+      "target": "Old Norse",
+      "value": 2
+    },
+    {
+      "source": "Carib",
+      "target": "Portuguese",
+      "value": 2
+    },
+    {
+      "source": "Carib",
+      "target": "Russian",
+      "value": 2
+    },
+    {
+      "source": "Carib",
+      "target": "Slavic",
+      "value": 2
+    },
+    {
+      "source": "Carib",
+      "target": "Spanish",
+      "value": 2
+    },
+    {
+      "source": "Carib",
+      "target": "Tai",
+      "value": 2
+    },
+    {
+      "source": "Catalan",
+      "target": "Church Slavonic",
+      "value": 186
+    },
+    {
+      "source": "Catalan",
+      "target": "Danish",
+      "value": 337
+    },
+    {
+      "source": "Catalan",
+      "target": "Dutch",
+      "value": 389
+    },
+    {
+      "source": "Catalan",
+      "target": "French",
+      "value": 801
+    },
+    {
+      "source": "Catalan",
+      "target": "Ga",
+      "value": 190
+    },
+    {
+      "source": "Catalan",
+      "target": "German",
+      "value": 602
+    },
+    {
+      "source": "Catalan",
+      "target": "Germanic",
+      "value": 265
+    },
+    {
+      "source": "Catalan",
+      "target": "Gothic",
+      "value": 21
+    },
+    {
+      "source": "Catalan",
+      "target": "Greek",
+      "value": 521
+    },
+    {
+      "source": "Catalan",
+      "target": "Icelandic",
+      "value": 186
+    },
+    {
+      "source": "Catalan",
+      "target": "Indo-European",
+      "value": 192
+    },
+    {
+      "source": "Catalan",
+      "target": "Italian",
+      "value": 801
+    },
+    {
+      "source": "Catalan",
+      "target": "Japanese",
+      "value": 2
+    },
+    {
+      "source": "Catalan",
+      "target": "Latin",
+      "value": 778
+    },
+    {
+      "source": "Catalan",
+      "target": "Lithuanian",
+      "value": 186
+    },
+    {
+      "source": "Catalan",
+      "target": "Middle Dutch",
+      "value": 335
+    },
+    {
+      "source": "Catalan",
+      "target": "Middle English",
+      "value": 191
+    },
+    {
+      "source": "Catalan",
+      "target": "Norwegian",
+      "value": 335
+    },
+    {
+      "source": "Catalan",
+      "target": "Occitan",
+      "value": 6
+    },
+    {
+      "source": "Catalan",
+      "target": "Old Church Slavonic",
+      "value": 186
+    },
+    {
+      "source": "Catalan",
+      "target": "Old English",
+      "value": 521
+    },
+    {
+      "source": "Catalan",
+      "target": "Old French",
+      "value": 748
+    },
+    {
+      "source": "Catalan",
+      "target": "Old High German",
+      "value": 2
+    },
+    {
+      "source": "Catalan",
+      "target": "Old Norse",
+      "value": 186
+    },
+    {
+      "source": "Catalan",
+      "target": "Persian",
+      "value": 5
+    },
+    {
+      "source": "Catalan",
+      "target": "Portuguese",
+      "value": 376
+    },
+    {
+      "source": "Catalan",
+      "target": "Provençal",
+      "value": 67
+    },
+    {
+      "source": "Catalan",
+      "target": "Russian",
+      "value": 186
+    },
+    {
+      "source": "Catalan",
+      "target": "Spanish",
+      "value": 793
+    },
+    {
+      "source": "Catalan",
+      "target": "Swedish",
+      "value": 23
+    },
+    {
+      "source": "Celtic",
+      "target": "Church Slavonic",
+      "value": 279
+    },
+    {
+      "source": "Celtic",
+      "target": "Coptic",
+      "value": 2
+    },
+    {
+      "source": "Celtic",
+      "target": "Cornish",
+      "value": 143
+    },
+    {
+      "source": "Celtic",
+      "target": "Croatian",
+      "value": 3
+    },
+    {
+      "source": "Celtic",
+      "target": "Danish",
+      "value": 214
+    },
+    {
+      "source": "Celtic",
+      "target": "Dutch",
+      "value": 1266
+    },
+    {
+      "source": "Celtic",
+      "target": "Egyptian",
+      "value": 2
+    },
+    {
+      "source": "Celtic",
+      "target": "French",
+      "value": 479
+    },
+    {
+      "source": "Celtic",
+      "target": "Frisian",
+      "value": 1158
+    },
+    {
+      "source": "Celtic",
+      "target": "Ga",
+      "value": 622
+    },
+    {
+      "source": "Celtic",
+      "target": "Gaelic",
+      "value": 52
+    },
+    {
+      "source": "Celtic",
+      "target": "German",
+      "value": 1424
+    },
+    {
+      "source": "Celtic",
+      "target": "Germanic",
+      "value": 1392
+    },
+    {
+      "source": "Celtic",
+      "target": "Gothic",
+      "value": 732
+    },
+    {
+      "source": "Celtic",
+      "target": "Greek",
+      "value": 109
+    },
+    {
+      "source": "Celtic",
+      "target": "Hebrew",
+      "value": 21
+    },
+    {
+      "source": "Celtic",
+      "target": "Hungarian",
+      "value": 3
+    },
+    {
+      "source": "Celtic",
+      "target": "Indo-European",
+      "value": 63
+    },
+    {
+      "source": "Celtic",
+      "target": "Irish",
+      "value": 784
+    },
+    {
+      "source": "Celtic",
+      "target": "Italian",
+      "value": 135
+    },
+    {
+      "source": "Celtic",
+      "target": "Latin",
+      "value": 592
+    },
+    {
+      "source": "Celtic",
+      "target": "Latvian",
+      "value": 64
+    },
+    {
+      "source": "Celtic",
+      "target": "Lithuanian",
+      "value": 269
+    },
+    {
+      "source": "Celtic",
+      "target": "Low German",
+      "value": 71
+    },
+    {
+      "source": "Celtic",
+      "target": "Manx",
+      "value": 5
+    },
+    {
+      "source": "Celtic",
+      "target": "Middle Dutch",
+      "value": 1210
+    },
+    {
+      "source": "Celtic",
+      "target": "Middle English",
+      "value": 956
+    },
+    {
+      "source": "Celtic",
+      "target": "Middle High German",
+      "value": 132
+    },
+    {
+      "source": "Celtic",
+      "target": "Middle Irish",
+      "value": 119
+    },
+    {
+      "source": "Celtic",
+      "target": "Norwegian",
+      "value": 4
+    },
+    {
+      "source": "Celtic",
+      "target": "Old Church Slavonic",
+      "value": 279
+    },
+    {
+      "source": "Celtic",
+      "target": "Old English",
+      "value": 1427
+    },
+    {
+      "source": "Celtic",
+      "target": "Old French",
+      "value": 321
+    },
+    {
+      "source": "Celtic",
+      "target": "Old High German",
+      "value": 1251
+    },
+    {
+      "source": "Celtic",
+      "target": "Old Irish",
+      "value": 711
+    },
+    {
+      "source": "Celtic",
+      "target": "Old Norse",
+      "value": 976
+    },
+    {
+      "source": "Celtic",
+      "target": "Old Provençal",
+      "value": 4
+    },
+    {
+      "source": "Celtic",
+      "target": "Polish",
+      "value": 269
+    },
+    {
+      "source": "Celtic",
+      "target": "Portuguese",
+      "value": 18
+    },
+    {
+      "source": "Celtic",
+      "target": "Provençal",
+      "value": 6
+    },
+    {
+      "source": "Celtic",
+      "target": "Romance",
+      "value": 87
+    },
+    {
+      "source": "Celtic",
+      "target": "Russian",
+      "value": 266
+    },
+    {
+      "source": "Celtic",
+      "target": "Sanskrit",
+      "value": 87
+    },
+    {
+      "source": "Celtic",
+      "target": "Slavic",
+      "value": 337
+    },
+    {
+      "source": "Celtic",
+      "target": "Spanish",
+      "value": 82
+    },
+    {
+      "source": "Celtic",
+      "target": "Swedish",
+      "value": 196
+    },
+    {
+      "source": "Celtic",
+      "target": "Welsh",
+      "value": 437
+    },
+    {
+      "source": "Chinese",
+      "target": "Church Slavonic",
+      "value": 58
+    },
+    {
+      "source": "Chinese",
+      "target": "Dutch",
+      "value": 675
+    },
+    {
+      "source": "Chinese",
+      "target": "French",
+      "value": 523
+    },
+    {
+      "source": "Chinese",
+      "target": "Frisian",
+      "value": 972
+    },
+    {
+      "source": "Chinese",
+      "target": "German",
+      "value": 1096
+    },
+    {
+      "source": "Chinese",
+      "target": "Germanic",
+      "value": 1036
+    },
+    {
+      "source": "Chinese",
+      "target": "Gothic",
+      "value": 972
+    },
+    {
+      "source": "Chinese",
+      "target": "Greek",
+      "value": 1174
+    },
+    {
+      "source": "Chinese",
+      "target": "Indo-European",
+      "value": 423
+    },
+    {
+      "source": "Chinese",
+      "target": "Italian",
+      "value": 375
+    },
+    {
+      "source": "Chinese",
+      "target": "Japanese",
+      "value": 6
+    },
+    {
+      "source": "Chinese",
+      "target": "Korean",
+      "value": 52
+    },
+    {
+      "source": "Chinese",
+      "target": "Latin",
+      "value": 1118
+    },
+    {
+      "source": "Chinese",
+      "target": "Lithuanian",
+      "value": 377
+    },
+    {
+      "source": "Chinese",
+      "target": "Malay",
+      "value": 8
+    },
+    {
+      "source": "Chinese",
+      "target": "Manchu",
+      "value": 4
+    },
+    {
+      "source": "Chinese",
+      "target": "Mandar",
+      "value": 8
+    },
+    {
+      "source": "Chinese",
+      "target": "Middle Dutch",
+      "value": 663
+    },
+    {
+      "source": "Chinese",
+      "target": "Middle English",
+      "value": 431
+    },
+    {
+      "source": "Chinese",
+      "target": "Mongo",
+      "value": 4
+    },
+    {
+      "source": "Chinese",
+      "target": "Mongolian",
+      "value": 4
+    },
+    {
+      "source": "Chinese",
+      "target": "Nahuatl",
+      "value": 52
+    },
+    {
+      "source": "Chinese",
+      "target": "Old Church Slavonic",
+      "value": 58
+    },
+    {
+      "source": "Chinese",
+      "target": "Old English",
+      "value": 1497
+    },
+    {
+      "source": "Chinese",
+      "target": "Old French",
+      "value": 515
+    },
+    {
+      "source": "Chinese",
+      "target": "Old High German",
+      "value": 1032
+    },
+    {
+      "source": "Chinese",
+      "target": "Old Norse",
+      "value": 982
+    },
+    {
+      "source": "Chinese",
+      "target": "Old Persian",
+      "value": 657
+    },
+    {
+      "source": "Chinese",
+      "target": "Persian",
+      "value": 665
+    },
+    {
+      "source": "Chinese",
+      "target": "Portuguese",
+      "value": 8
+    },
+    {
+      "source": "Chinese",
+      "target": "Russian",
+      "value": 62
+    },
+    {
+      "source": "Chinese",
+      "target": "Sanskrit",
+      "value": 605
+    },
+    {
+      "source": "Chinese",
+      "target": "Slavic",
+      "value": 4
+    },
+    {
+      "source": "Chinese",
+      "target": "Spanish",
+      "value": 12
+    },
+    {
+      "source": "Chinese",
+      "target": "Turkish",
+      "value": 8
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Cornish",
+      "value": 119
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Croatian",
+      "value": 107
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Czech",
+      "value": 24
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Danish",
+      "value": 11646
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Delaware",
+      "value": 35
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Dutch",
+      "value": 29872
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Egyptian",
+      "value": 26
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Estonian",
+      "value": 2
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Finnish",
+      "value": 1190
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Flemish",
+      "value": 14
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "French",
+      "value": 4849
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Frisian",
+      "value": 23539
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Ga",
+      "value": 40
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Gaelic",
+      "value": 2
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "German",
+      "value": 50564
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Germanic",
+      "value": 50418
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Gothic",
+      "value": 19777
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Greek",
+      "value": 33096
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Hebrew",
+      "value": 87
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Hittite",
+      "value": 11187
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Icelandic",
+      "value": 337
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Indo-European",
+      "value": 1189
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Iranian",
+      "value": 7
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Irish",
+      "value": 33071
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Italian",
+      "value": 388
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Korean",
+      "value": 52
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Kru",
+      "value": 1
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Latin",
+      "value": 41836
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Lithuanian",
+      "value": 42595
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Low German",
+      "value": 355
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Manchu",
+      "value": 4
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Middle Dutch",
+      "value": 11271
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Middle English",
+      "value": 37262
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Middle High German",
+      "value": 367
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Middle Irish",
+      "value": 248
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Mongo",
+      "value": 4
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Mongolian",
+      "value": 4
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Nahuatl",
+      "value": 52
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Norwegian",
+      "value": 156
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Old Church Slavonic",
+      "value": 50717
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Old English",
+      "value": 50591
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Old French",
+      "value": 477
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Old High German",
+      "value": 41100
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Old Irish",
+      "value": 32569
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Old Norse",
+      "value": 21114
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Old Persian",
+      "value": 6745
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Ossetian",
+      "value": 10
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Persian",
+      "value": 6908
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Polish",
+      "value": 429
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Portuguese",
+      "value": 186
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Russian",
+      "value": 22634
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Sanskrit",
+      "value": 14843
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Slavic",
+      "value": 933
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Spanish",
+      "value": 496
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Swedish",
+      "value": 1774
+    },
+    {
+      "source": "Church Slavonic",
+      "target": "Welsh",
+      "value": 2530
+    },
+    {
+      "source": "Coptic",
+      "target": "Dutch",
+      "value": 16
+    },
+    {
+      "source": "Coptic",
+      "target": "Egyptian",
+      "value": 3
+    },
+    {
+      "source": "Coptic",
+      "target": "French",
+      "value": 19
+    },
+    {
+      "source": "Coptic",
+      "target": "German",
+      "value": 16
+    },
+    {
+      "source": "Coptic",
+      "target": "Greek",
+      "value": 18
+    },
+    {
+      "source": "Coptic",
+      "target": "Hebrew",
+      "value": 16
+    },
+    {
+      "source": "Coptic",
+      "target": "Italian",
+      "value": 16
+    },
+    {
+      "source": "Coptic",
+      "target": "Latin",
+      "value": 19
+    },
+    {
+      "source": "Coptic",
+      "target": "Old English",
+      "value": 17
+    },
+    {
+      "source": "Coptic",
+      "target": "Old French",
+      "value": 18
+    },
+    {
+      "source": "Coptic",
+      "target": "Old Provençal",
+      "value": 2
+    },
+    {
+      "source": "Coptic",
+      "target": "Phoenician",
+      "value": 1
+    },
+    {
+      "source": "Coptic",
+      "target": "Polish",
+      "value": 16
+    },
+    {
+      "source": "Coptic",
+      "target": "Provençal",
+      "value": 2
+    },
+    {
+      "source": "Coptic",
+      "target": "Russian",
+      "value": 16
+    },
+    {
+      "source": "Coptic",
+      "target": "Spanish",
+      "value": 17
+    },
+    {
+      "source": "Coptic",
+      "target": "Swedish",
+      "value": 16
+    },
+    {
+      "source": "Cornish",
+      "target": "Dutch",
+      "value": 119
+    },
+    {
+      "source": "Cornish",
+      "target": "French",
+      "value": 23
+    },
+    {
+      "source": "Cornish",
+      "target": "Frisian",
+      "value": 119
+    },
+    {
+      "source": "Cornish",
+      "target": "Ga",
+      "value": 3
+    },
+    {
+      "source": "Cornish",
+      "target": "German",
+      "value": 119
+    },
+    {
+      "source": "Cornish",
+      "target": "Germanic",
+      "value": 119
+    },
+    {
+      "source": "Cornish",
+      "target": "Gothic",
+      "value": 119
+    },
+    {
+      "source": "Cornish",
+      "target": "Irish",
+      "value": 138
+    },
+    {
+      "source": "Cornish",
+      "target": "Italian",
+      "value": 18
+    },
+    {
+      "source": "Cornish",
+      "target": "Latin",
+      "value": 19
+    },
+    {
+      "source": "Cornish",
+      "target": "Lithuanian",
+      "value": 119
+    },
+    {
+      "source": "Cornish",
+      "target": "Middle Dutch",
+      "value": 119
+    },
+    {
+      "source": "Cornish",
+      "target": "Middle English",
+      "value": 122
+    },
+    {
+      "source": "Cornish",
+      "target": "Old Church Slavonic",
+      "value": 119
+    },
+    {
+      "source": "Cornish",
+      "target": "Old English",
+      "value": 137
+    },
+    {
+      "source": "Cornish",
+      "target": "Old French",
+      "value": 5
+    },
+    {
+      "source": "Cornish",
+      "target": "Old High German",
+      "value": 119
+    },
+    {
+      "source": "Cornish",
+      "target": "Old Irish",
+      "value": 120
+    },
+    {
+      "source": "Cornish",
+      "target": "Old Norse",
+      "value": 119
+    },
+    {
+      "source": "Cornish",
+      "target": "Polish",
+      "value": 119
+    },
+    {
+      "source": "Cornish",
+      "target": "Russian",
+      "value": 119
+    },
+    {
+      "source": "Cornish",
+      "target": "Slavic",
+      "value": 119
+    },
+    {
+      "source": "Cornish",
+      "target": "Welsh",
+      "value": 6
+    },
+    {
+      "source": "Cree",
+      "target": "French",
+      "value": 18
+    },
+    {
+      "source": "Cree",
+      "target": "Greek",
+      "value": 4
+    },
+    {
+      "source": "Cree",
+      "target": "Latin",
+      "value": 4
+    },
+    {
+      "source": "Cree",
+      "target": "Middle English",
+      "value": 15
+    },
+    {
+      "source": "Cree",
+      "target": "Old French",
+      "value": 3
+    },
+    {
+      "source": "Cree",
+      "target": "Somali",
+      "value": 10
+    },
+    {
+      "source": "Croatian",
+      "target": "Czech",
+      "value": 1
+    },
+    {
+      "source": "Croatian",
+      "target": "Danish",
+      "value": 62
+    },
+    {
+      "source": "Croatian",
+      "target": "Dutch",
+      "value": 80
+    },
+    {
+      "source": "Croatian",
+      "target": "French",
+      "value": 72
+    },
+    {
+      "source": "Croatian",
+      "target": "Frisian",
+      "value": 45
+    },
+    {
+      "source": "Croatian",
+      "target": "Ga",
+      "value": 3
+    },
+    {
+      "source": "Croatian",
+      "target": "Gaelic",
+      "value": 3
+    },
+    {
+      "source": "Croatian",
+      "target": "German",
+      "value": 117
+    },
+    {
+      "source": "Croatian",
+      "target": "Germanic",
+      "value": 85
+    },
+    {
+      "source": "Croatian",
+      "target": "Gothic",
+      "value": 4
+    },
+    {
+      "source": "Croatian",
+      "target": "Greek",
+      "value": 120
+    },
+    {
+      "source": "Croatian",
+      "target": "Hungarian",
+      "value": 9
+    },
+    {
+      "source": "Croatian",
+      "target": "Indo-European",
+      "value": 36
+    },
+    {
+      "source": "Croatian",
+      "target": "Iranian",
+      "value": 6
+    },
+    {
+      "source": "Croatian",
+      "target": "Irish",
+      "value": 51
+    },
+    {
+      "source": "Croatian",
+      "target": "Italian",
+      "value": 35
+    },
+    {
+      "source": "Croatian",
+      "target": "Latin",
+      "value": 145
+    },
+    {
+      "source": "Croatian",
+      "target": "Latvian",
+      "value": 1
+    },
+    {
+      "source": "Croatian",
+      "target": "Lithuanian",
+      "value": 54
+    },
+    {
+      "source": "Croatian",
+      "target": "Middle Dutch",
+      "value": 45
+    },
+    {
+      "source": "Croatian",
+      "target": "Middle English",
+      "value": 36
+    },
+    {
+      "source": "Croatian",
+      "target": "Old Church Slavonic",
+      "value": 107
+    },
+    {
+      "source": "Croatian",
+      "target": "Old English",
+      "value": 120
+    },
+    {
+      "source": "Croatian",
+      "target": "Old French",
+      "value": 30
+    },
+    {
+      "source": "Croatian",
+      "target": "Old High German",
+      "value": 45
+    },
+    {
+      "source": "Croatian",
+      "target": "Old Norse",
+      "value": 46
+    },
+    {
+      "source": "Croatian",
+      "target": "Old Persian",
+      "value": 6
+    },
+    {
+      "source": "Croatian",
+      "target": "Persian",
+      "value": 6
+    },
+    {
+      "source": "Croatian",
+      "target": "Polish",
+      "value": 90
+    },
+    {
+      "source": "Croatian",
+      "target": "Russian",
+      "value": 36
+    },
+    {
+      "source": "Croatian",
+      "target": "Sanskrit",
+      "value": 62
+    },
+    {
+      "source": "Croatian",
+      "target": "Slavic",
+      "value": 108
+    },
+    {
+      "source": "Croatian",
+      "target": "Spanish",
+      "value": 71
+    },
+    {
+      "source": "Croatian",
+      "target": "Swedish",
+      "value": 6
+    },
+    {
+      "source": "Croatian",
+      "target": "Turkish",
+      "value": 6
+    },
+    {
+      "source": "Croatian",
+      "target": "Welsh",
+      "value": 12
+    },
+    {
+      "source": "Czech",
+      "target": "Dutch",
+      "value": 92
+    },
+    {
+      "source": "Czech",
+      "target": "French",
+      "value": 2
+    },
+    {
+      "source": "Czech",
+      "target": "Frisian",
+      "value": 74
+    },
+    {
+      "source": "Czech",
+      "target": "German",
+      "value": 93
+    },
+    {
+      "source": "Czech",
+      "target": "Germanic",
+      "value": 93
+    },
+    {
+      "source": "Czech",
+      "target": "Gothic",
+      "value": 75
+    },
+    {
+      "source": "Czech",
+      "target": "Greek",
+      "value": 84
+    },
+    {
+      "source": "Czech",
+      "target": "Indo-European",
+      "value": 19
+    },
+    {
+      "source": "Czech",
+      "target": "Irish",
+      "value": 63
+    },
+    {
+      "source": "Czech",
+      "target": "Latin",
+      "value": 34
+    },
+    {
+      "source": "Czech",
+      "target": "Latvian",
+      "value": 51
+    },
+    {
+      "source": "Czech",
+      "target": "Lithuanian",
+      "value": 100
+    },
+    {
+      "source": "Czech",
+      "target": "Middle English",
+      "value": 23
+    },
+    {
+      "source": "Czech",
+      "target": "Middle High German",
+      "value": 18
+    },
+    {
+      "source": "Czech",
+      "target": "Old Church Slavonic",
+      "value": 24
+    },
+    {
+      "source": "Czech",
+      "target": "Old English",
+      "value": 93
+    },
+    {
+      "source": "Czech",
+      "target": "Old French",
+      "value": 2
+    },
+    {
+      "source": "Czech",
+      "target": "Old High German",
+      "value": 74
+    },
+    {
+      "source": "Czech",
+      "target": "Old Irish",
+      "value": 50
+    },
+    {
+      "source": "Czech",
+      "target": "Old Norse",
+      "value": 75
+    },
+    {
+      "source": "Czech",
+      "target": "Polish",
+      "value": 37
+    },
+    {
+      "source": "Czech",
+      "target": "Russian",
+      "value": 93
+    },
+    {
+      "source": "Czech",
+      "target": "Sanskrit",
+      "value": 13
+    },
+    {
+      "source": "Czech",
+      "target": "Slavic",
+      "value": 20
+    },
+    {
+      "source": "Czech",
+      "target": "Welsh",
+      "value": 14
+    },
+    {
+      "source": "Danish",
+      "target": "Dutch",
+      "value": 31213
+    },
+    {
+      "source": "Danish",
+      "target": "Finnish",
+      "value": 793
+    },
+    {
+      "source": "Danish",
+      "target": "Flemish",
+      "value": 4
+    },
+    {
+      "source": "Danish",
+      "target": "French",
+      "value": 2774
+    },
+    {
+      "source": "Danish",
+      "target": "Frisian",
+      "value": 30099
+    },
+    {
+      "source": "Danish",
+      "target": "Ga",
+      "value": 371
+    },
+    {
+      "source": "Danish",
+      "target": "Gaelic",
+      "value": 256
+    },
+    {
+      "source": "Danish",
+      "target": "German",
+      "value": 44770
+    },
+    {
+      "source": "Danish",
+      "target": "Germanic",
+      "value": 43037
+    },
+    {
+      "source": "Danish",
+      "target": "Gothic",
+      "value": 19201
+    },
+    {
+      "source": "Danish",
+      "target": "Greek",
+      "value": 5969
+    },
+    {
+      "source": "Danish",
+      "target": "Hebrew",
+      "value": 566
+    },
+    {
+      "source": "Danish",
+      "target": "Hindi",
+      "value": 16
+    },
+    {
+      "source": "Danish",
+      "target": "Hittite",
+      "value": 9109
+    },
+    {
+      "source": "Danish",
+      "target": "Hungarian",
+      "value": 9
+    },
+    {
+      "source": "Danish",
+      "target": "Icelandic",
+      "value": 104
+    },
+    {
+      "source": "Danish",
+      "target": "Indo-European",
+      "value": 2414
+    },
+    {
+      "source": "Danish",
+      "target": "Iranian",
+      "value": 321
+    },
+    {
+      "source": "Danish",
+      "target": "Irish",
+      "value": 7069
+    },
+    {
+      "source": "Danish",
+      "target": "Italian",
+      "value": 1941
+    },
+    {
+      "source": "Danish",
+      "target": "Japanese",
+      "value": 2
+    },
+    {
+      "source": "Danish",
+      "target": "Korean",
+      "value": 19
+    },
+    {
+      "source": "Danish",
+      "target": "Latin",
+      "value": 12618
+    },
+    {
+      "source": "Danish",
+      "target": "Latvian",
+      "value": 64
+    },
+    {
+      "source": "Danish",
+      "target": "Lithuanian",
+      "value": 12238
+    },
+    {
+      "source": "Danish",
+      "target": "Low German",
+      "value": 1097
+    },
+    {
+      "source": "Danish",
+      "target": "Maori",
+      "value": 20
+    },
+    {
+      "source": "Danish",
+      "target": "Middle Dutch",
+      "value": 19159
+    },
+    {
+      "source": "Danish",
+      "target": "Middle English",
+      "value": 18220
+    },
+    {
+      "source": "Danish",
+      "target": "Middle High German",
+      "value": 950
+    },
+    {
+      "source": "Danish",
+      "target": "Middle Irish",
+      "value": 25
+    },
+    {
+      "source": "Danish",
+      "target": "Modern Greek",
+      "value": 51
+    },
+    {
+      "source": "Danish",
+      "target": "Norwegian",
+      "value": 1066
+    },
+    {
+      "source": "Danish",
+      "target": "Old Church Slavonic",
+      "value": 11646
+    },
+    {
+      "source": "Danish",
+      "target": "Old English",
+      "value": 44170
+    },
+    {
+      "source": "Danish",
+      "target": "Old French",
+      "value": 1185
+    },
+    {
+      "source": "Danish",
+      "target": "Old High German",
+      "value": 27521
+    },
+    {
+      "source": "Danish",
+      "target": "Old Irish",
+      "value": 6652
+    },
+    {
+      "source": "Danish",
+      "target": "Old Norse",
+      "value": 37595
+    },
+    {
+      "source": "Danish",
+      "target": "Old Persian",
+      "value": 4524
+    },
+    {
+      "source": "Danish",
+      "target": "Old Provençal",
+      "value": 2
+    },
+    {
+      "source": "Danish",
+      "target": "Ossetian",
+      "value": 10
+    },
+    {
+      "source": "Danish",
+      "target": "Persian",
+      "value": 4559
+    },
+    {
+      "source": "Danish",
+      "target": "Polish",
+      "value": 199
+    },
+    {
+      "source": "Danish",
+      "target": "Portuguese",
+      "value": 108
+    },
+    {
+      "source": "Danish",
+      "target": "Provençal",
+      "value": 2
+    },
+    {
+      "source": "Danish",
+      "target": "Romance",
+      "value": 115
+    },
+    {
+      "source": "Danish",
+      "target": "Russian",
+      "value": 1117
+    },
+    {
+      "source": "Danish",
+      "target": "Sanskrit",
+      "value": 6760
+    },
+    {
+      "source": "Danish",
+      "target": "Scots",
+      "value": 5
+    },
+    {
+      "source": "Danish",
+      "target": "Slavic",
+      "value": 972
+    },
+    {
+      "source": "Danish",
+      "target": "Slovenian",
+      "value": 27
+    },
+    {
+      "source": "Danish",
+      "target": "Spanish",
+      "value": 1822
+    },
+    {
+      "source": "Danish",
+      "target": "Swedish",
+      "value": 19565
+    },
+    {
+      "source": "Danish",
+      "target": "Welsh",
+      "value": 1562
+    },
+    {
+      "source": "Danish",
+      "target": "Yiddish",
+      "value": 273
+    },
+    {
+      "source": "Delaware",
+      "target": "Dutch",
+      "value": 16
+    },
+    {
+      "source": "Delaware",
+      "target": "Frisian",
+      "value": 51
+    },
+    {
+      "source": "Delaware",
+      "target": "German",
+      "value": 51
+    },
+    {
+      "source": "Delaware",
+      "target": "Germanic",
+      "value": 51
+    },
+    {
+      "source": "Delaware",
+      "target": "Gothic",
+      "value": 35
+    },
+    {
+      "source": "Delaware",
+      "target": "Greek",
+      "value": 35
+    },
+    {
+      "source": "Delaware",
+      "target": "Irish",
+      "value": 35
+    },
+    {
+      "source": "Delaware",
+      "target": "Latin",
+      "value": 35
+    },
+    {
+      "source": "Delaware",
+      "target": "Lithuanian",
+      "value": 35
+    },
+    {
+      "source": "Delaware",
+      "target": "Low German",
+      "value": 16
+    },
+    {
+      "source": "Delaware",
+      "target": "Old Church Slavonic",
+      "value": 35
+    },
+    {
+      "source": "Delaware",
+      "target": "Old English",
+      "value": 51
+    },
+    {
+      "source": "Delaware",
+      "target": "Old High German",
+      "value": 51
+    },
+    {
+      "source": "Delaware",
+      "target": "Old Irish",
+      "value": 35
+    },
+    {
+      "source": "Delaware",
+      "target": "Old Norse",
+      "value": 35
+    },
+    {
+      "source": "Delaware",
+      "target": "Sanskrit",
+      "value": 35
+    },
+    {
+      "source": "Dravidian",
+      "target": "French",
+      "value": 1
+    },
+    {
+      "source": "Dravidian",
+      "target": "German",
+      "value": 1
+    },
+    {
+      "source": "Dravidian",
+      "target": "Greek",
+      "value": 1
+    },
+    {
+      "source": "Dravidian",
+      "target": "Hindi",
+      "value": 2
+    },
+    {
+      "source": "Dravidian",
+      "target": "Latin",
+      "value": 1
+    },
+    {
+      "source": "Dravidian",
+      "target": "Malay",
+      "value": 2
+    },
+    {
+      "source": "Dravidian",
+      "target": "Malayalam",
+      "value": 2
+    },
+    {
+      "source": "Dravidian",
+      "target": "Middle High German",
+      "value": 1
+    },
+    {
+      "source": "Dravidian",
+      "target": "Old French",
+      "value": 1
+    },
+    {
+      "source": "Dravidian",
+      "target": "Portuguese",
+      "value": 2
+    },
+    {
+      "source": "Dravidian",
+      "target": "Sanskrit",
+      "value": 1
+    },
+    {
+      "source": "Dravidian",
+      "target": "Tamil",
+      "value": 2
+    },
+    {
+      "source": "Dravidian",
+      "target": "Telugu",
+      "value": 2
+    },
+    {
+      "source": "Dutch",
+      "target": "Egyptian",
+      "value": 27
+    },
+    {
+      "source": "Dutch",
+      "target": "Fang",
+      "value": 6
+    },
+    {
+      "source": "Dutch",
+      "target": "Finnish",
+      "value": 2083
+    },
+    {
+      "source": "Dutch",
+      "target": "Flemish",
+      "value": 612
+    },
+    {
+      "source": "Dutch",
+      "target": "French",
+      "value": 30432
+    },
+    {
+      "source": "Dutch",
+      "target": "Frisian",
+      "value": 160514
+    },
+    {
+      "source": "Dutch",
+      "target": "Ga",
+      "value": 2205
+    },
+    {
+      "source": "Dutch",
+      "target": "Gaelic",
+      "value": 19
+    },
+    {
+      "source": "Dutch",
+      "target": "Georgian",
+      "value": 25
+    },
+    {
+      "source": "Dutch",
+      "target": "German",
+      "value": 185866
+    },
+    {
+      "source": "Dutch",
+      "target": "Germanic",
+      "value": 178012
+    },
+    {
+      "source": "Dutch",
+      "target": "Gothic",
+      "value": 83642
+    },
+    {
+      "source": "Dutch",
+      "target": "Greek",
+      "value": 29082
+    },
+    {
+      "source": "Dutch",
+      "target": "Hebrew",
+      "value": 989
+    },
+    {
+      "source": "Dutch",
+      "target": "Hittite",
+      "value": 11655
+    },
+    {
+      "source": "Dutch",
+      "target": "Hungarian",
+      "value": 10
+    },
+    {
+      "source": "Dutch",
+      "target": "Icelandic",
+      "value": 893
+    },
+    {
+      "source": "Dutch",
+      "target": "Indo-European",
+      "value": 3931
+    },
+    {
+      "source": "Dutch",
+      "target": "Iranian",
+      "value": 598
+    },
+    {
+      "source": "Dutch",
+      "target": "Irish",
+      "value": 18835
+    },
+    {
+      "source": "Dutch",
+      "target": "Italian",
+      "value": 3438
+    },
+    {
+      "source": "Dutch",
+      "target": "Japanese",
+      "value": 2
+    },
+    {
+      "source": "Dutch",
+      "target": "Korean",
+      "value": 19
+    },
+    {
+      "source": "Dutch",
+      "target": "Kru",
+      "value": 7
+    },
+    {
+      "source": "Dutch",
+      "target": "Lao",
+      "value": 46
+    },
+    {
+      "source": "Dutch",
+      "target": "Latin",
+      "value": 56266
+    },
+    {
+      "source": "Dutch",
+      "target": "Latvian",
+      "value": 50
+    },
+    {
+      "source": "Dutch",
+      "target": "Lithuanian",
+      "value": 27206
+    },
+    {
+      "source": "Dutch",
+      "target": "Low German",
+      "value": 5256
+    },
+    {
+      "source": "Dutch",
+      "target": "Malay",
+      "value": 8
+    },
+    {
+      "source": "Dutch",
+      "target": "Manchu",
+      "value": 4
+    },
+    {
+      "source": "Dutch",
+      "target": "Mandar",
+      "value": 8
+    },
+    {
+      "source": "Dutch",
+      "target": "Mari",
+      "value": 837
+    },
+    {
+      "source": "Dutch",
+      "target": "Middle Dutch",
+      "value": 106562
+    },
+    {
+      "source": "Dutch",
+      "target": "Middle English",
+      "value": 104385
+    },
+    {
+      "source": "Dutch",
+      "target": "Middle High German",
+      "value": 3765
+    },
+    {
+      "source": "Dutch",
+      "target": "Middle Irish",
+      "value": 186
+    },
+    {
+      "source": "Dutch",
+      "target": "Mongo",
+      "value": 4
+    },
+    {
+      "source": "Dutch",
+      "target": "Mongolian",
+      "value": 4
+    },
+    {
+      "source": "Dutch",
+      "target": "North American Indian",
+      "value": 1146
+    },
+    {
+      "source": "Dutch",
+      "target": "Norwegian",
+      "value": 1010
+    },
+    {
+      "source": "Dutch",
+      "target": "Ojibwa",
+      "value": 1146
+    },
+    {
+      "source": "Dutch",
+      "target": "Old Church Slavonic",
+      "value": 29872
+    },
+    {
+      "source": "Dutch",
+      "target": "Old English",
+      "value": 184301
+    },
+    {
+      "source": "Dutch",
+      "target": "Old French",
+      "value": 15457
+    },
+    {
+      "source": "Dutch",
+      "target": "Old High German",
+      "value": 125836
+    },
+    {
+      "source": "Dutch",
+      "target": "Old Irish",
+      "value": 17135
+    },
+    {
+      "source": "Dutch",
+      "target": "Old Norse",
+      "value": 123536
+    },
+    {
+      "source": "Dutch",
+      "target": "Old Persian",
+      "value": 7786
+    },
+    {
+      "source": "Dutch",
+      "target": "Old Provençal",
+      "value": 4
+    },
+    {
+      "source": "Dutch",
+      "target": "Ossetian",
+      "value": 10
+    },
+    {
+      "source": "Dutch",
+      "target": "Persian",
+      "value": 8115
+    },
+    {
+      "source": "Dutch",
+      "target": "Polish",
+      "value": 713
+    },
+    {
+      "source": "Dutch",
+      "target": "Portuguese",
+      "value": 525
+    },
+    {
+      "source": "Dutch",
+      "target": "Provençal",
+      "value": 238
+    },
+    {
+      "source": "Dutch",
+      "target": "Romance",
+      "value": 31
+    },
+    {
+      "source": "Dutch",
+      "target": "Russian",
+      "value": 5183
+    },
+    {
+      "source": "Dutch",
+      "target": "Sanskrit",
+      "value": 20112
+    },
+    {
+      "source": "Dutch",
+      "target": "Scots",
+      "value": 646
+    },
+    {
+      "source": "Dutch",
+      "target": "Slavic",
+      "value": 2490
+    },
+    {
+      "source": "Dutch",
+      "target": "Slovenian",
+      "value": 27
+    },
+    {
+      "source": "Dutch",
+      "target": "Spanish",
+      "value": 4048
+    },
+    {
+      "source": "Dutch",
+      "target": "Swedish",
+      "value": 18049
+    },
+    {
+      "source": "Dutch",
+      "target": "Turkish",
+      "value": 71
+    },
+    {
+      "source": "Dutch",
+      "target": "Twi",
+      "value": 40
+    },
+    {
+      "source": "Dutch",
+      "target": "Walloon",
+      "value": 11
+    },
+    {
+      "source": "Dutch",
+      "target": "Welsh",
+      "value": 5374
+    },
+    {
+      "source": "Dutch",
+      "target": "Yiddish",
+      "value": 138
+    },
+    {
+      "source": "Egyptian",
+      "target": "French",
+      "value": 51
+    },
+    {
+      "source": "Egyptian",
+      "target": "Frisian",
+      "value": 26
+    },
+    {
+      "source": "Egyptian",
+      "target": "Ga",
+      "value": 1
+    },
+    {
+      "source": "Egyptian",
+      "target": "German",
+      "value": 29
+    },
+    {
+      "source": "Egyptian",
+      "target": "Germanic",
+      "value": 27
+    },
+    {
+      "source": "Egyptian",
+      "target": "Gothic",
+      "value": 1
+    },
+    {
+      "source": "Egyptian",
+      "target": "Greek",
+      "value": 45
+    },
+    {
+      "source": "Egyptian",
+      "target": "Hebrew",
+      "value": 1
+    },
+    {
+      "source": "Egyptian",
+      "target": "Italian",
+      "value": 10
+    },
+    {
+      "source": "Egyptian",
+      "target": "Latin",
+      "value": 51
+    },
+    {
+      "source": "Egyptian",
+      "target": "Low German",
+      "value": 1
+    },
+    {
+      "source": "Egyptian",
+      "target": "Middle Dutch",
+      "value": 26
+    },
+    {
+      "source": "Egyptian",
+      "target": "Middle English",
+      "value": 31
+    },
+    {
+      "source": "Egyptian",
+      "target": "Old Church Slavonic",
+      "value": 26
+    },
+    {
+      "source": "Egyptian",
+      "target": "Old English",
+      "value": 31
+    },
+    {
+      "source": "Egyptian",
+      "target": "Old French",
+      "value": 23
+    },
+    {
+      "source": "Egyptian",
+      "target": "Old High German",
+      "value": 27
+    },
+    {
+      "source": "Egyptian",
+      "target": "Old Provençal",
+      "value": 2
+    },
+    {
+      "source": "Egyptian",
+      "target": "Phoenician",
+      "value": 1
+    },
+    {
+      "source": "Egyptian",
+      "target": "Portuguese",
+      "value": 10
+    },
+    {
+      "source": "Egyptian",
+      "target": "Provençal",
+      "value": 3
+    },
+    {
+      "source": "Egyptian",
+      "target": "Semitic",
+      "value": 1
+    },
+    {
+      "source": "Egyptian",
+      "target": "Slavic",
+      "value": 26
+    },
+    {
+      "source": "Egyptian",
+      "target": "Spanish",
+      "value": 37
+    },
+    {
+      "source": "Estonian",
+      "target": "Finnish",
+      "value": 2
+    },
+    {
+      "source": "Estonian",
+      "target": "Frisian",
+      "value": 2
+    },
+    {
+      "source": "Estonian",
+      "target": "German",
+      "value": 2
+    },
+    {
+      "source": "Estonian",
+      "target": "Germanic",
+      "value": 2
+    },
+    {
+      "source": "Estonian",
+      "target": "Gothic",
+      "value": 2
+    },
+    {
+      "source": "Estonian",
+      "target": "Lithuanian",
+      "value": 2
+    },
+    {
+      "source": "Estonian",
+      "target": "Old Church Slavonic",
+      "value": 2
+    },
+    {
+      "source": "Estonian",
+      "target": "Old English",
+      "value": 2
+    },
+    {
+      "source": "Estonian",
+      "target": "Old High German",
+      "value": 2
+    },
+    {
+      "source": "Estonian",
+      "target": "Old Norse",
+      "value": 2
+    },
+    {
+      "source": "Estonian",
+      "target": "Swedish",
+      "value": 2
+    },
+    {
+      "source": "Fang",
+      "target": "Frisian",
+      "value": 6
+    },
+    {
+      "source": "Fang",
+      "target": "German",
+      "value": 6
+    },
+    {
+      "source": "Fang",
+      "target": "Germanic",
+      "value": 6
+    },
+    {
+      "source": "Fang",
+      "target": "Gothic",
+      "value": 6
+    },
+    {
+      "source": "Fang",
+      "target": "Latin",
+      "value": 6
+    },
+    {
+      "source": "Fang",
+      "target": "Middle Dutch",
+      "value": 6
+    },
+    {
+      "source": "Fang",
+      "target": "Middle English",
+      "value": 6
+    },
+    {
+      "source": "Fang",
+      "target": "Old English",
+      "value": 6
+    },
+    {
+      "source": "Fang",
+      "target": "Old Norse",
+      "value": 6
+    },
+    {
+      "source": "Finnish",
+      "target": "French",
+      "value": 445
+    },
+    {
+      "source": "Finnish",
+      "target": "Frisian",
+      "value": 1717
+    },
+    {
+      "source": "Finnish",
+      "target": "Ga",
+      "value": 326
+    },
+    {
+      "source": "Finnish",
+      "target": "German",
+      "value": 2085
+    },
+    {
+      "source": "Finnish",
+      "target": "Germanic",
+      "value": 2085
+    },
+    {
+      "source": "Finnish",
+      "target": "Gothic",
+      "value": 1226
+    },
+    {
+      "source": "Finnish",
+      "target": "Greek",
+      "value": 293
+    },
+    {
+      "source": "Finnish",
+      "target": "Indo-European",
+      "value": 292
+    },
+    {
+      "source": "Finnish",
+      "target": "Iranian",
+      "value": 287
+    },
+    {
+      "source": "Finnish",
+      "target": "Irish",
+      "value": 824
+    },
+    {
+      "source": "Finnish",
+      "target": "Italian",
+      "value": 1
+    },
+    {
+      "source": "Finnish",
+      "target": "Latin",
+      "value": 305
+    },
+    {
+      "source": "Finnish",
+      "target": "Lithuanian",
+      "value": 364
+    },
+    {
+      "source": "Finnish",
+      "target": "Low German",
+      "value": 14
+    },
+    {
+      "source": "Finnish",
+      "target": "Middle Dutch",
+      "value": 583
+    },
+    {
+      "source": "Finnish",
+      "target": "Middle English",
+      "value": 1176
+    },
+    {
+      "source": "Finnish",
+      "target": "Middle High German",
+      "value": 362
+    },
+    {
+      "source": "Finnish",
+      "target": "Old Church Slavonic",
+      "value": 1190
+    },
+    {
+      "source": "Finnish",
+      "target": "Old English",
+      "value": 2085
+    },
+    {
+      "source": "Finnish",
+      "target": "Old High German",
+      "value": 1746
+    },
+    {
+      "source": "Finnish",
+      "target": "Old Irish",
+      "value": 824
+    },
+    {
+      "source": "Finnish",
+      "target": "Old Norse",
+      "value": 1099
+    },
+    {
+      "source": "Finnish",
+      "target": "Romance",
+      "value": 1
+    },
+    {
+      "source": "Finnish",
+      "target": "Russian",
+      "value": 362
+    },
+    {
+      "source": "Finnish",
+      "target": "Sanskrit",
+      "value": 5
+    },
+    {
+      "source": "Finnish",
+      "target": "Slavic",
+      "value": 4
+    },
+    {
+      "source": "Finnish",
+      "target": "Spanish",
+      "value": 288
+    },
+    {
+      "source": "Finnish",
+      "target": "Swedish",
+      "value": 1289
+    },
+    {
+      "source": "Finnish",
+      "target": "Welsh",
+      "value": 829
+    },
+    {
+      "source": "Flemish",
+      "target": "French",
+      "value": 100
+    },
+    {
+      "source": "Flemish",
+      "target": "Frisian",
+      "value": 481
+    },
+    {
+      "source": "Flemish",
+      "target": "Ga",
+      "value": 16
+    },
+    {
+      "source": "Flemish",
+      "target": "German",
+      "value": 639
+    },
+    {
+      "source": "Flemish",
+      "target": "Germanic",
+      "value": 540
+    },
+    {
+      "source": "Flemish",
+      "target": "Gothic",
+      "value": 14
+    },
+    {
+      "source": "Flemish",
+      "target": "Greek",
+      "value": 22
+    },
+    {
+      "source": "Flemish",
+      "target": "Hebrew",
+      "value": 24
+    },
+    {
+      "source": "Flemish",
+      "target": "Indo-European",
+      "value": 14
+    },
+    {
+      "source": "Flemish",
+      "target": "Irish",
+      "value": 24
+    },
+    {
+      "source": "Flemish",
+      "target": "Italian",
+      "value": 61
+    },
+    {
+      "source": "Flemish",
+      "target": "Latin",
+      "value": 27
+    },
+    {
+      "source": "Flemish",
+      "target": "Low German",
+      "value": 67
+    },
+    {
+      "source": "Flemish",
+      "target": "Middle Dutch",
+      "value": 572
+    },
+    {
+      "source": "Flemish",
+      "target": "Middle English",
+      "value": 506
+    },
+    {
+      "source": "Flemish",
+      "target": "Middle High German",
+      "value": 33
+    },
+    {
+      "source": "Flemish",
+      "target": "Norwegian",
+      "value": 4
+    },
+    {
+      "source": "Flemish",
+      "target": "Old Church Slavonic",
+      "value": 14
+    },
+    {
+      "source": "Flemish",
+      "target": "Old English",
+      "value": 525
+    },
+    {
+      "source": "Flemish",
+      "target": "Old French",
+      "value": 13
+    },
+    {
+      "source": "Flemish",
+      "target": "Old High German",
+      "value": 506
+    },
+    {
+      "source": "Flemish",
+      "target": "Old Norse",
+      "value": 119
+    },
+    {
+      "source": "Flemish",
+      "target": "Polish",
+      "value": 14
+    },
+    {
+      "source": "Flemish",
+      "target": "Sanskrit",
+      "value": 47
+    },
+    {
+      "source": "Flemish",
+      "target": "Swedish",
+      "value": 11
+    },
+    {
+      "source": "Flemish",
+      "target": "Twi",
+      "value": 33
+    },
+    {
+      "source": "Flemish",
+      "target": "Walloon",
+      "value": 11
+    },
+    {
+      "source": "Fon",
+      "target": "Middle English",
+      "value": 1
+    },
+    {
+      "source": "French",
+      "target": "Frisian",
+      "value": 23459
+    },
+    {
+      "source": "French",
+      "target": "Ga",
+      "value": 1231
+    },
+    {
+      "source": "French",
+      "target": "Gaelic",
+      "value": 45
+    },
+    {
+      "source": "French",
+      "target": "Georgian",
+      "value": 1
+    },
+    {
+      "source": "French",
+      "target": "German",
+      "value": 37366
+    },
+    {
+      "source": "French",
+      "target": "Germanic",
+      "value": 34524
+    },
+    {
+      "source": "French",
+      "target": "Gothic",
+      "value": 5703
+    },
+    {
+      "source": "French",
+      "target": "Greek",
+      "value": 5626
+    },
+    {
+      "source": "French",
+      "target": "Haitian",
+      "value": 2
+    },
+    {
+      "source": "French",
+      "target": "Hawaiian",
+      "value": 8
+    },
+    {
+      "source": "French",
+      "target": "Hebrew",
+      "value": 1066
+    },
+    {
+      "source": "French",
+      "target": "Hittite",
+      "value": 85
+    },
+    {
+      "source": "French",
+      "target": "Hungarian",
+      "value": 10
+    },
+    {
+      "source": "French",
+      "target": "Icelandic",
+      "value": 925
+    },
+    {
+      "source": "French",
+      "target": "Indo-European",
+      "value": 2043
+    },
+    {
+      "source": "French",
+      "target": "Iranian",
+      "value": 294
+    },
+    {
+      "source": "French",
+      "target": "Irish",
+      "value": 704
+    },
+    {
+      "source": "French",
+      "target": "Italian",
+      "value": 9609
+    },
+    {
+      "source": "French",
+      "target": "Japanese",
+      "value": 17
+    },
+    {
+      "source": "French",
+      "target": "Latin",
+      "value": 46839
+    },
+    {
+      "source": "French",
+      "target": "Latvian",
+      "value": 4
+    },
+    {
+      "source": "French",
+      "target": "Lithuanian",
+      "value": 1520
+    },
+    {
+      "source": "French",
+      "target": "Low German",
+      "value": 594
+    },
+    {
+      "source": "French",
+      "target": "Malay",
+      "value": 8
+    },
+    {
+      "source": "French",
+      "target": "Manchu",
+      "value": 4
+    },
+    {
+      "source": "French",
+      "target": "Mandar",
+      "value": 8
+    },
+    {
+      "source": "French",
+      "target": "Mari",
+      "value": 92
+    },
+    {
+      "source": "French",
+      "target": "Middle Dutch",
+      "value": 13595
+    },
+    {
+      "source": "French",
+      "target": "Middle English",
+      "value": 26113
+    },
+    {
+      "source": "French",
+      "target": "Middle French",
+      "value": 3
+    },
+    {
+      "source": "French",
+      "target": "Middle High German",
+      "value": 468
+    },
+    {
+      "source": "French",
+      "target": "Middle Irish",
+      "value": 255
+    },
+    {
+      "source": "French",
+      "target": "Modern Greek",
+      "value": 51
+    },
+    {
+      "source": "French",
+      "target": "Mongo",
+      "value": 4
+    },
+    {
+      "source": "French",
+      "target": "Mongolian",
+      "value": 4
+    },
+    {
+      "source": "French",
+      "target": "Neapolitan",
+      "value": 1
+    },
+    {
+      "source": "French",
+      "target": "North American Indian",
+      "value": 226
+    },
+    {
+      "source": "French",
+      "target": "Norwegian",
+      "value": 514
+    },
+    {
+      "source": "French",
+      "target": "Occitan",
+      "value": 6
+    },
+    {
+      "source": "French",
+      "target": "Old Church Slavonic",
+      "value": 4849
+    },
+    {
+      "source": "French",
+      "target": "Old English",
+      "value": 38896
+    },
+    {
+      "source": "French",
+      "target": "Old French",
+      "value": 42843
+    },
+    {
+      "source": "French",
+      "target": "Old High German",
+      "value": 14404
+    },
+    {
+      "source": "French",
+      "target": "Old Irish",
+      "value": 415
+    },
+    {
+      "source": "French",
+      "target": "Old Norse",
+      "value": 28184
+    },
+    {
+      "source": "French",
+      "target": "Old Persian",
+      "value": 55
+    },
+    {
+      "source": "French",
+      "target": "Old Provençal",
+      "value": 214
+    },
+    {
+      "source": "French",
+      "target": "Pali",
+      "value": 77
+    },
+    {
+      "source": "French",
+      "target": "Persian",
+      "value": 151
+    },
+    {
+      "source": "French",
+      "target": "Phoenician",
+      "value": 3
+    },
+    {
+      "source": "French",
+      "target": "Polish",
+      "value": 136
+    },
+    {
+      "source": "French",
+      "target": "Portuguese",
+      "value": 1927
+    },
+    {
+      "source": "French",
+      "target": "Provençal",
+      "value": 651
+    },
+    {
+      "source": "French",
+      "target": "Romance",
+      "value": 607
+    },
+    {
+      "source": "French",
+      "target": "Romanian",
+      "value": 17
+    },
+    {
+      "source": "French",
+      "target": "Russian",
+      "value": 387
+    },
+    {
+      "source": "French",
+      "target": "Sanskrit",
+      "value": 3891
+    },
+    {
+      "source": "French",
+      "target": "Scots",
+      "value": 651
+    },
+    {
+      "source": "French",
+      "target": "Semitic",
+      "value": 31
+    },
+    {
+      "source": "French",
+      "target": "Slavic",
+      "value": 641
+    },
+    {
+      "source": "French",
+      "target": "Spanish",
+      "value": 9697
+    },
+    {
+      "source": "French",
+      "target": "Swedish",
+      "value": 2265
+    },
+    {
+      "source": "French",
+      "target": "Syriac",
+      "value": 1
+    },
+    {
+      "source": "French",
+      "target": "Tai",
+      "value": 2
+    },
+    {
+      "source": "French",
+      "target": "Tibetan",
+      "value": 6
+    },
+    {
+      "source": "French",
+      "target": "Turkish",
+      "value": 25
+    },
+    {
+      "source": "French",
+      "target": "Vai",
+      "value": 36
+    },
+    {
+      "source": "French",
+      "target": "Walloon",
+      "value": 13
+    },
+    {
+      "source": "French",
+      "target": "Welsh",
+      "value": 473
+    },
+    {
+      "source": "Frisian",
+      "target": "Ga",
+      "value": 2420
+    },
+    {
+      "source": "Frisian",
+      "target": "Gaelic",
+      "value": 62
+    },
+    {
+      "source": "Frisian",
+      "target": "Georgian",
+      "value": 25
+    },
+    {
+      "source": "Frisian",
+      "target": "German",
+      "value": 177747
+    },
+    {
+      "source": "Frisian",
+      "target": "Germanic",
+      "value": 174467
+    },
+    {
+      "source": "Frisian",
+      "target": "Gothic",
+      "value": 85318
+    },
+    {
+      "source": "Frisian",
+      "target": "Greek",
+      "value": 25211
+    },
+    {
+      "source": "Frisian",
+      "target": "Hebrew",
+      "value": 579
+    },
+    {
+      "source": "Frisian",
+      "target": "Hittite",
+      "value": 12316
+    },
+    {
+      "source": "Frisian",
+      "target": "Hungarian",
+      "value": 9
+    },
+    {
+      "source": "Frisian",
+      "target": "Icelandic",
+      "value": 776
+    },
+    {
+      "source": "Frisian",
+      "target": "Indo-European",
+      "value": 4432
+    },
+    {
+      "source": "Frisian",
+      "target": "Iranian",
+      "value": 592
+    },
+    {
+      "source": "Frisian",
+      "target": "Irish",
+      "value": 19128
+    },
+    {
+      "source": "Frisian",
+      "target": "Italian",
+      "value": 1714
+    },
+    {
+      "source": "Frisian",
+      "target": "Japanese",
+      "value": 221
+    },
+    {
+      "source": "Frisian",
+      "target": "Korean",
+      "value": 19
+    },
+    {
+      "source": "Frisian",
+      "target": "Kru",
+      "value": 1
+    },
+    {
+      "source": "Frisian",
+      "target": "Lao",
+      "value": 46
+    },
+    {
+      "source": "Frisian",
+      "target": "Latin",
+      "value": 54646
+    },
+    {
+      "source": "Frisian",
+      "target": "Latvian",
+      "value": 50
+    },
+    {
+      "source": "Frisian",
+      "target": "Lithuanian",
+      "value": 24036
+    },
+    {
+      "source": "Frisian",
+      "target": "Low German",
+      "value": 2647
+    },
+    {
+      "source": "Frisian",
+      "target": "Maori",
+      "value": 20
+    },
+    {
+      "source": "Frisian",
+      "target": "Mari",
+      "value": 825
+    },
+    {
+      "source": "Frisian",
+      "target": "Middle Dutch",
+      "value": 91753
+    },
+    {
+      "source": "Frisian",
+      "target": "Middle English",
+      "value": 99730
+    },
+    {
+      "source": "Frisian",
+      "target": "Middle High German",
+      "value": 3194
+    },
+    {
+      "source": "Frisian",
+      "target": "Middle Irish",
+      "value": 160
+    },
+    {
+      "source": "Frisian",
+      "target": "North American Indian",
+      "value": 1146
+    },
+    {
+      "source": "Frisian",
+      "target": "Norwegian",
+      "value": 414
+    },
+    {
+      "source": "Frisian",
+      "target": "Ojibwa",
+      "value": 1146
+    },
+    {
+      "source": "Frisian",
+      "target": "Old Church Slavonic",
+      "value": 23539
+    },
+    {
+      "source": "Frisian",
+      "target": "Old English",
+      "value": 177946
+    },
+    {
+      "source": "Frisian",
+      "target": "Old French",
+      "value": 13359
+    },
+    {
+      "source": "Frisian",
+      "target": "Old High German",
+      "value": 122763
+    },
+    {
+      "source": "Frisian",
+      "target": "Old Irish",
+      "value": 17472
+    },
+    {
+      "source": "Frisian",
+      "target": "Old Norse",
+      "value": 125159
+    },
+    {
+      "source": "Frisian",
+      "target": "Old Persian",
+      "value": 7767
+    },
+    {
+      "source": "Frisian",
+      "target": "Persian",
+      "value": 7886
+    },
+    {
+      "source": "Frisian",
+      "target": "Polish",
+      "value": 515
+    },
+    {
+      "source": "Frisian",
+      "target": "Portuguese",
+      "value": 1
+    },
+    {
+      "source": "Frisian",
+      "target": "Romance",
+      "value": 31
+    },
+    {
+      "source": "Frisian",
+      "target": "Romanian",
+      "value": 17
+    },
+    {
+      "source": "Frisian",
+      "target": "Russian",
+      "value": 4415
+    },
+    {
+      "source": "Frisian",
+      "target": "Sanskrit",
+      "value": 18150
+    },
+    {
+      "source": "Frisian",
+      "target": "Scots",
+      "value": 646
+    },
+    {
+      "source": "Frisian",
+      "target": "Slavic",
+      "value": 2363
+    },
+    {
+      "source": "Frisian",
+      "target": "Slovenian",
+      "value": 27
+    },
+    {
+      "source": "Frisian",
+      "target": "Spanish",
+      "value": 2155
+    },
+    {
+      "source": "Frisian",
+      "target": "Swedish",
+      "value": 14584
+    },
+    {
+      "source": "Frisian",
+      "target": "Welsh",
+      "value": 4830
+    },
+    {
+      "source": "Frisian",
+      "target": "Yiddish",
+      "value": 136
+    },
+    {
+      "source": "Ga",
+      "target": "Gaelic",
+      "value": 394
+    },
+    {
+      "source": "Ga",
+      "target": "German",
+      "value": 2982
+    },
+    {
+      "source": "Ga",
+      "target": "Germanic",
+      "value": 2941
+    },
+    {
+      "source": "Ga",
+      "target": "Gothic",
+      "value": 897
+    },
+    {
+      "source": "Ga",
+      "target": "Greek",
+      "value": 576
+    },
+    {
+      "source": "Ga",
+      "target": "Hebrew",
+      "value": 26
+    },
+    {
+      "source": "Ga",
+      "target": "Hindi",
+      "value": 16
+    },
+    {
+      "source": "Ga",
+      "target": "Hungarian",
+      "value": 3
+    },
+    {
+      "source": "Ga",
+      "target": "Icelandic",
+      "value": 18
+    },
+    {
+      "source": "Ga",
+      "target": "Indo-European",
+      "value": 23
+    },
+    {
+      "source": "Ga",
+      "target": "Irish",
+      "value": 804
+    },
+    {
+      "source": "Ga",
+      "target": "Italian",
+      "value": 415
+    },
+    {
+      "source": "Ga",
+      "target": "Japanese",
+      "value": 223
+    },
+    {
+      "source": "Ga",
+      "target": "Latin",
+      "value": 1834
+    },
+    {
+      "source": "Ga",
+      "target": "Lithuanian",
+      "value": 41
+    },
+    {
+      "source": "Ga",
+      "target": "Low German",
+      "value": 253
+    },
+    {
+      "source": "Ga",
+      "target": "Middle Dutch",
+      "value": 1431
+    },
+    {
+      "source": "Ga",
+      "target": "Middle English",
+      "value": 1661
+    },
+    {
+      "source": "Ga",
+      "target": "Middle High German",
+      "value": 31
+    },
+    {
+      "source": "Ga",
+      "target": "Middle Irish",
+      "value": 3
+    },
+    {
+      "source": "Ga",
+      "target": "Norwegian",
+      "value": 87
+    },
+    {
+      "source": "Ga",
+      "target": "Old Church Slavonic",
+      "value": 40
+    },
+    {
+      "source": "Ga",
+      "target": "Old English",
+      "value": 3059
+    },
+    {
+      "source": "Ga",
+      "target": "Old French",
+      "value": 1079
+    },
+    {
+      "source": "Ga",
+      "target": "Old High German",
+      "value": 2191
+    },
+    {
+      "source": "Ga",
+      "target": "Old Irish",
+      "value": 745
+    },
+    {
+      "source": "Ga",
+      "target": "Old Norse",
+      "value": 2724
+    },
+    {
+      "source": "Ga",
+      "target": "Old Provençal",
+      "value": 3
+    },
+    {
+      "source": "Ga",
+      "target": "Polish",
+      "value": 3
+    },
+    {
+      "source": "Ga",
+      "target": "Portuguese",
+      "value": 190
+    },
+    {
+      "source": "Ga",
+      "target": "Provençal",
+      "value": 5
+    },
+    {
+      "source": "Ga",
+      "target": "Romance",
+      "value": 68
+    },
+    {
+      "source": "Ga",
+      "target": "Russian",
+      "value": 2
+    },
+    {
+      "source": "Ga",
+      "target": "Sanskrit",
+      "value": 52
+    },
+    {
+      "source": "Ga",
+      "target": "Slavic",
+      "value": 78
+    },
+    {
+      "source": "Ga",
+      "target": "Spanish",
+      "value": 371
+    },
+    {
+      "source": "Ga",
+      "target": "Swedish",
+      "value": 450
+    },
+    {
+      "source": "Ga",
+      "target": "Walloon",
+      "value": 11
+    },
+    {
+      "source": "Ga",
+      "target": "Welsh",
+      "value": 364
+    },
+    {
+      "source": "Gaelic",
+      "target": "German",
+      "value": 345
+    },
+    {
+      "source": "Gaelic",
+      "target": "Germanic",
+      "value": 343
+    },
+    {
+      "source": "Gaelic",
+      "target": "Gothic",
+      "value": 20
+    },
+    {
+      "source": "Gaelic",
+      "target": "Greek",
+      "value": 33
+    },
+    {
+      "source": "Gaelic",
+      "target": "Hungarian",
+      "value": 3
+    },
+    {
+      "source": "Gaelic",
+      "target": "Icelandic",
+      "value": 18
+    },
+    {
+      "source": "Gaelic",
+      "target": "Irish",
+      "value": 290
+    },
+    {
+      "source": "Gaelic",
+      "target": "Italian",
+      "value": 19
+    },
+    {
+      "source": "Gaelic",
+      "target": "Latin",
+      "value": 18
+    },
+    {
+      "source": "Gaelic",
+      "target": "Lithuanian",
+      "value": 3
+    },
+    {
+      "source": "Gaelic",
+      "target": "Low German",
+      "value": 1
+    },
+    {
+      "source": "Gaelic",
+      "target": "Middle Dutch",
+      "value": 15
+    },
+    {
+      "source": "Gaelic",
+      "target": "Middle English",
+      "value": 94
+    },
+    {
+      "source": "Gaelic",
+      "target": "Middle Irish",
+      "value": 2
+    },
+    {
+      "source": "Gaelic",
+      "target": "Old Church Slavonic",
+      "value": 2
+    },
+    {
+      "source": "Gaelic",
+      "target": "Old English",
+      "value": 345
+    },
+    {
+      "source": "Gaelic",
+      "target": "Old French",
+      "value": 42
+    },
+    {
+      "source": "Gaelic",
+      "target": "Old High German",
+      "value": 310
+    },
+    {
+      "source": "Gaelic",
+      "target": "Old Irish",
+      "value": 236
+    },
+    {
+      "source": "Gaelic",
+      "target": "Old Norse",
+      "value": 349
+    },
+    {
+      "source": "Gaelic",
+      "target": "Polish",
+      "value": 3
+    },
+    {
+      "source": "Gaelic",
+      "target": "Russian",
+      "value": 2
+    },
+    {
+      "source": "Gaelic",
+      "target": "Spanish",
+      "value": 22
+    },
+    {
+      "source": "Gaelic",
+      "target": "Swedish",
+      "value": 239
+    },
+    {
+      "source": "Gaelic",
+      "target": "Welsh",
+      "value": 278
+    },
+    {
+      "source": "Georgian",
+      "target": "German",
+      "value": 25
+    },
+    {
+      "source": "Georgian",
+      "target": "Greek",
+      "value": 1
+    },
+    {
+      "source": "Georgian",
+      "target": "Hebrew",
+      "value": 1
+    },
+    {
+      "source": "Georgian",
+      "target": "Hittite",
+      "value": 1
+    },
+    {
+      "source": "Georgian",
+      "target": "Icelandic",
+      "value": 25
+    },
+    {
+      "source": "Georgian",
+      "target": "Indo-European",
+      "value": 1
+    },
+    {
+      "source": "Georgian",
+      "target": "Latin",
+      "value": 1
+    },
+    {
+      "source": "Georgian",
+      "target": "Low German",
+      "value": 25
+    },
+    {
+      "source": "Georgian",
+      "target": "Middle Dutch",
+      "value": 25
+    },
+    {
+      "source": "Georgian",
+      "target": "Old English",
+      "value": 25
+    },
+    {
+      "source": "Georgian",
+      "target": "Old French",
+      "value": 1
+    },
+    {
+      "source": "Georgian",
+      "target": "Semitic",
+      "value": 1
+    },
+    {
+      "source": "German",
+      "target": "Germanic",
+      "value": 240390
+    },
+    {
+      "source": "German",
+      "target": "Gothic",
+      "value": 100893
+    },
+    {
+      "source": "German",
+      "target": "Greek",
+      "value": 51074
+    },
+    {
+      "source": "German",
+      "target": "Haitian",
+      "value": 2
+    },
+    {
+      "source": "German",
+      "target": "Hebrew",
+      "value": 1112
+    },
+    {
+      "source": "German",
+      "target": "Hindi",
+      "value": 16
+    },
+    {
+      "source": "German",
+      "target": "Hittite",
+      "value": 12401
+    },
+    {
+      "source": "German",
+      "target": "Hungarian",
+      "value": 19
+    },
+    {
+      "source": "German",
+      "target": "Icelandic",
+      "value": 1176
+    },
+    {
+      "source": "German",
+      "target": "Indo-European",
+      "value": 5102
+    },
+    {
+      "source": "German",
+      "target": "Iranian",
+      "value": 605
+    },
+    {
+      "source": "German",
+      "target": "Irish",
+      "value": 38362
+    },
+    {
+      "source": "German",
+      "target": "Italian",
+      "value": 5507
+    },
+    {
+      "source": "German",
+      "target": "Japanese",
+      "value": 405
+    },
+    {
+      "source": "German",
+      "target": "Korean",
+      "value": 71
+    },
+    {
+      "source": "German",
+      "target": "Kru",
+      "value": 7
+    },
+    {
+      "source": "German",
+      "target": "Lao",
+      "value": 46
+    },
+    {
+      "source": "German",
+      "target": "Latin",
+      "value": 91134
+    },
+    {
+      "source": "German",
+      "target": "Latvian",
+      "value": 116
+    },
+    {
+      "source": "German",
+      "target": "Lithuanian",
+      "value": 47164
+    },
+    {
+      "source": "German",
+      "target": "Low German",
+      "value": 5847
+    },
+    {
+      "source": "German",
+      "target": "Malay",
+      "value": 8
+    },
+    {
+      "source": "German",
+      "target": "Manchu",
+      "value": 4
+    },
+    {
+      "source": "German",
+      "target": "Mandar",
+      "value": 8
+    },
+    {
+      "source": "German",
+      "target": "Maori",
+      "value": 20
+    },
+    {
+      "source": "German",
+      "target": "Mari",
+      "value": 837
+    },
+    {
+      "source": "German",
+      "target": "Middle Dutch",
+      "value": 106177
+    },
+    {
+      "source": "German",
+      "target": "Middle English",
+      "value": 134972
+    },
+    {
+      "source": "German",
+      "target": "Middle French",
+      "value": 2
+    },
+    {
+      "source": "German",
+      "target": "Middle High German",
+      "value": 7396
+    },
+    {
+      "source": "German",
+      "target": "Middle Irish",
+      "value": 341
+    },
+    {
+      "source": "German",
+      "target": "Modern Greek",
+      "value": 128
+    },
+    {
+      "source": "German",
+      "target": "Mongo",
+      "value": 4
+    },
+    {
+      "source": "German",
+      "target": "Mongolian",
+      "value": 4
+    },
+    {
+      "source": "German",
+      "target": "Nahuatl",
+      "value": 52
+    },
+    {
+      "source": "German",
+      "target": "North American Indian",
+      "value": 1299
+    },
+    {
+      "source": "German",
+      "target": "Norwegian",
+      "value": 1413
+    },
+    {
+      "source": "German",
+      "target": "Occitan",
+      "value": 6
+    },
+    {
+      "source": "German",
+      "target": "Ojibwa",
+      "value": 1146
+    },
+    {
+      "source": "German",
+      "target": "Old Church Slavonic",
+      "value": 50564
+    },
+    {
+      "source": "German",
+      "target": "Old English",
+      "value": 249744
+    },
+    {
+      "source": "German",
+      "target": "Old French",
+      "value": 20376
+    },
+    {
+      "source": "German",
+      "target": "Old High German",
+      "value": 161115
+    },
+    {
+      "source": "German",
+      "target": "Old Irish",
+      "value": 36503
+    },
+    {
+      "source": "German",
+      "target": "Old Norse",
+      "value": 155264
+    },
+    {
+      "source": "German",
+      "target": "Old Persian",
+      "value": 7871
+    },
+    {
+      "source": "German",
+      "target": "Old Provençal",
+      "value": 56
+    },
+    {
+      "source": "German",
+      "target": "Ossetian",
+      "value": 10
+    },
+    {
+      "source": "German",
+      "target": "Persian",
+      "value": 8214
+    },
+    {
+      "source": "German",
+      "target": "Polish",
+      "value": 793
+    },
+    {
+      "source": "German",
+      "target": "Portuguese",
+      "value": 1018
+    },
+    {
+      "source": "German",
+      "target": "Provençal",
+      "value": 331
+    },
+    {
+      "source": "German",
+      "target": "Romance",
+      "value": 193
+    },
+    {
+      "source": "German",
+      "target": "Romanian",
+      "value": 17
+    },
+    {
+      "source": "German",
+      "target": "Russian",
+      "value": 23845
+    },
+    {
+      "source": "German",
+      "target": "Sanskrit",
+      "value": 22729
+    },
+    {
+      "source": "German",
+      "target": "Scots",
+      "value": 659
+    },
+    {
+      "source": "German",
+      "target": "Semitic",
+      "value": 8
+    },
+    {
+      "source": "German",
+      "target": "Slavic",
+      "value": 2780
+    },
+    {
+      "source": "German",
+      "target": "Slovenian",
+      "value": 27
+    },
+    {
+      "source": "German",
+      "target": "Spanish",
+      "value": 5999
+    },
+    {
+      "source": "German",
+      "target": "Swedish",
+      "value": 30150
+    },
+    {
+      "source": "German",
+      "target": "Tai",
+      "value": 2
+    },
+    {
+      "source": "German",
+      "target": "Turkish",
+      "value": 71
+    },
+    {
+      "source": "German",
+      "target": "Twi",
+      "value": 49
+    },
+    {
+      "source": "German",
+      "target": "Walloon",
+      "value": 11
+    },
+    {
+      "source": "German",
+      "target": "Welsh",
+      "value": 5871
+    },
+    {
+      "source": "German",
+      "target": "Yiddish",
+      "value": 412
+    },
+    {
+      "source": "Germanic",
+      "target": "Gothic",
+      "value": 98218
+    },
+    {
+      "source": "Germanic",
+      "target": "Greek",
+      "value": 48319
+    },
+    {
+      "source": "Germanic",
+      "target": "Hebrew",
+      "value": 692
+    },
+    {
+      "source": "Germanic",
+      "target": "Hindi",
+      "value": 16
+    },
+    {
+      "source": "Germanic",
+      "target": "Hittite",
+      "value": 12401
+    },
+    {
+      "source": "Germanic",
+      "target": "Hungarian",
+      "value": 12
+    },
+    {
+      "source": "Germanic",
+      "target": "Icelandic",
+      "value": 1151
+    },
+    {
+      "source": "Germanic",
+      "target": "Indo-European",
+      "value": 5011
+    },
+    {
+      "source": "Germanic",
+      "target": "Iranian",
+      "value": 599
+    },
+    {
+      "source": "Germanic",
+      "target": "Irish",
+      "value": 37846
+    },
+    {
+      "source": "Germanic",
+      "target": "Italian",
+      "value": 3530
+    },
+    {
+      "source": "Germanic",
+      "target": "Japanese",
+      "value": 394
+    },
+    {
+      "source": "Germanic",
+      "target": "Korean",
+      "value": 19
+    },
+    {
+      "source": "Germanic",
+      "target": "Kru",
+      "value": 7
+    },
+    {
+      "source": "Germanic",
+      "target": "Lao",
+      "value": 46
+    },
+    {
+      "source": "Germanic",
+      "target": "Latin",
+      "value": 85156
+    },
+    {
+      "source": "Germanic",
+      "target": "Latvian",
+      "value": 115
+    },
+    {
+      "source": "Germanic",
+      "target": "Lithuanian",
+      "value": 46544
+    },
+    {
+      "source": "Germanic",
+      "target": "Low German",
+      "value": 4839
+    },
+    {
+      "source": "Germanic",
+      "target": "Manchu",
+      "value": 4
+    },
+    {
+      "source": "Germanic",
+      "target": "Mari",
+      "value": 837
+    },
+    {
+      "source": "Germanic",
+      "target": "Middle Dutch",
+      "value": 102230
+    },
+    {
+      "source": "Germanic",
+      "target": "Middle English",
+      "value": 130518
+    },
+    {
+      "source": "Germanic",
+      "target": "Middle French",
+      "value": 2
+    },
+    {
+      "source": "Germanic",
+      "target": "Middle High German",
+      "value": 4553
+    },
+    {
+      "source": "Germanic",
+      "target": "Middle Irish",
+      "value": 321
+    },
+    {
+      "source": "Germanic",
+      "target": "Modern Greek",
+      "value": 128
+    },
+    {
+      "source": "Germanic",
+      "target": "Mongo",
+      "value": 4
+    },
+    {
+      "source": "Germanic",
+      "target": "Mongolian",
+      "value": 4
+    },
+    {
+      "source": "Germanic",
+      "target": "North American Indian",
+      "value": 1299
+    },
+    {
+      "source": "Germanic",
+      "target": "Norwegian",
+      "value": 607
+    },
+    {
+      "source": "Germanic",
+      "target": "Occitan",
+      "value": 6
+    },
+    {
+      "source": "Germanic",
+      "target": "Ojibwa",
+      "value": 1146
+    },
+    {
+      "source": "Germanic",
+      "target": "Old Church Slavonic",
+      "value": 50418
+    },
+    {
+      "source": "Germanic",
+      "target": "Old English",
+      "value": 238048
+    },
+    {
+      "source": "Germanic",
+      "target": "Old French",
+      "value": 18195
+    },
+    {
+      "source": "Germanic",
+      "target": "Old High German",
+      "value": 156720
+    },
+    {
+      "source": "Germanic",
+      "target": "Old Irish",
+      "value": 36410
+    },
+    {
+      "source": "Germanic",
+      "target": "Old Norse",
+      "value": 152083
+    },
+    {
+      "source": "Germanic",
+      "target": "Old Persian",
+      "value": 7407
+    },
+    {
+      "source": "Germanic",
+      "target": "Old Provençal",
+      "value": 45
+    },
+    {
+      "source": "Germanic",
+      "target": "Ossetian",
+      "value": 10
+    },
+    {
+      "source": "Germanic",
+      "target": "Persian",
+      "value": 7739
+    },
+    {
+      "source": "Germanic",
+      "target": "Polish",
+      "value": 748
+    },
+    {
+      "source": "Germanic",
+      "target": "Portuguese",
+      "value": 480
+    },
+    {
+      "source": "Germanic",
+      "target": "Provençal",
+      "value": 309
+    },
+    {
+      "source": "Germanic",
+      "target": "Romance",
+      "value": 193
+    },
+    {
+      "source": "Germanic",
+      "target": "Russian",
+      "value": 23587
+    },
+    {
+      "source": "Germanic",
+      "target": "Sanskrit",
+      "value": 22444
+    },
+    {
+      "source": "Germanic",
+      "target": "Scots",
+      "value": 656
+    },
+    {
+      "source": "Germanic",
+      "target": "Slavic",
+      "value": 2754
+    },
+    {
+      "source": "Germanic",
+      "target": "Slovenian",
+      "value": 27
+    },
+    {
+      "source": "Germanic",
+      "target": "Spanish",
+      "value": 4395
+    },
+    {
+      "source": "Germanic",
+      "target": "Swedish",
+      "value": 29279
+    },
+    {
+      "source": "Germanic",
+      "target": "Turkish",
+      "value": 57
+    },
+    {
+      "source": "Germanic",
+      "target": "Twi",
+      "value": 7
+    },
+    {
+      "source": "Germanic",
+      "target": "Walloon",
+      "value": 11
+    },
+    {
+      "source": "Germanic",
+      "target": "Welsh",
+      "value": 5754
+    },
+    {
+      "source": "Germanic",
+      "target": "Yiddish",
+      "value": 138
+    },
+    {
+      "source": "Gothic",
+      "target": "Greek",
+      "value": 21654
+    },
+    {
+      "source": "Gothic",
+      "target": "Hebrew",
+      "value": 475
+    },
+    {
+      "source": "Gothic",
+      "target": "Hindi",
+      "value": 16
+    },
+    {
+      "source": "Gothic",
+      "target": "Hittite",
+      "value": 7578
+    },
+    {
+      "source": "Gothic",
+      "target": "Hungarian",
+      "value": 12
+    },
+    {
+      "source": "Gothic",
+      "target": "Icelandic",
+      "value": 87
+    },
+    {
+      "source": "Gothic",
+      "target": "Indo-European",
+      "value": 2541
+    },
+    {
+      "source": "Gothic",
+      "target": "Iranian",
+      "value": 278
+    },
+    {
+      "source": "Gothic",
+      "target": "Irish",
+      "value": 8931
+    },
+    {
+      "source": "Gothic",
+      "target": "Italian",
+      "value": 764
+    },
+    {
+      "source": "Gothic",
+      "target": "Japanese",
+      "value": 221
+    },
+    {
+      "source": "Gothic",
+      "target": "Latin",
+      "value": 34765
+    },
+    {
+      "source": "Gothic",
+      "target": "Latvian",
+      "value": 51
+    },
+    {
+      "source": "Gothic",
+      "target": "Lithuanian",
+      "value": 16964
+    },
+    {
+      "source": "Gothic",
+      "target": "Low German",
+      "value": 2701
+    },
+    {
+      "source": "Gothic",
+      "target": "Mari",
+      "value": 21
+    },
+    {
+      "source": "Gothic",
+      "target": "Middle Dutch",
+      "value": 38015
+    },
+    {
+      "source": "Gothic",
+      "target": "Middle English",
+      "value": 56144
+    },
+    {
+      "source": "Gothic",
+      "target": "Middle High German",
+      "value": 3071
+    },
+    {
+      "source": "Gothic",
+      "target": "Middle Irish",
+      "value": 79
+    },
+    {
+      "source": "Gothic",
+      "target": "Modern Greek",
+      "value": 51
+    },
+    {
+      "source": "Gothic",
+      "target": "Norwegian",
+      "value": 169
+    },
+    {
+      "source": "Gothic",
+      "target": "Old Church Slavonic",
+      "value": 19777
+    },
+    {
+      "source": "Gothic",
+      "target": "Old English",
+      "value": 101266
+    },
+    {
+      "source": "Gothic",
+      "target": "Old French",
+      "value": 814
+    },
+    {
+      "source": "Gothic",
+      "target": "Old High German",
+      "value": 59448
+    },
+    {
+      "source": "Gothic",
+      "target": "Old Irish",
+      "value": 7806
+    },
+    {
+      "source": "Gothic",
+      "target": "Old Norse",
+      "value": 76128
+    },
+    {
+      "source": "Gothic",
+      "target": "Old Persian",
+      "value": 7768
+    },
+    {
+      "source": "Gothic",
+      "target": "Persian",
+      "value": 7929
+    },
+    {
+      "source": "Gothic",
+      "target": "Polish",
+      "value": 440
+    },
+    {
+      "source": "Gothic",
+      "target": "Provençal",
+      "value": 17
+    },
+    {
+      "source": "Gothic",
+      "target": "Romance",
+      "value": 72
+    },
+    {
+      "source": "Gothic",
+      "target": "Russian",
+      "value": 4457
+    },
+    {
+      "source": "Gothic",
+      "target": "Sanskrit",
+      "value": 20545
+    },
+    {
+      "source": "Gothic",
+      "target": "Scots",
+      "value": 641
+    },
+    {
+      "source": "Gothic",
+      "target": "Slavic",
+      "value": 2173
+    },
+    {
+      "source": "Gothic",
+      "target": "Spanish",
+      "value": 620
+    },
+    {
+      "source": "Gothic",
+      "target": "Swedish",
+      "value": 11805
+    },
+    {
+      "source": "Gothic",
+      "target": "Welsh",
+      "value": 5009
+    },
+    {
+      "source": "Gothic",
+      "target": "Yiddish",
+      "value": 90
+    },
+    {
+      "source": "Greek",
+      "target": "Hebrew",
+      "value": 982
+    },
+    {
+      "source": "Greek",
+      "target": "Hittite",
+      "value": 3085
+    },
+    {
+      "source": "Greek",
+      "target": "Hungarian",
+      "value": 19
+    },
+    {
+      "source": "Greek",
+      "target": "Icelandic",
+      "value": 378
+    },
+    {
+      "source": "Greek",
+      "target": "Indo-European",
+      "value": 3126
+    },
+    {
+      "source": "Greek",
+      "target": "Iranian",
+      "value": 301
+    },
+    {
+      "source": "Greek",
+      "target": "Irish",
+      "value": 29551
+    },
+    {
+      "source": "Greek",
+      "target": "Italian",
+      "value": 1939
+    },
+    {
+      "source": "Greek",
+      "target": "Japanese",
+      "value": 221
+    },
+    {
+      "source": "Greek",
+      "target": "Korean",
+      "value": 52
+    },
+    {
+      "source": "Greek",
+      "target": "Kru",
+      "value": 7
+    },
+    {
+      "source": "Greek",
+      "target": "Latin",
+      "value": 45118
+    },
+    {
+      "source": "Greek",
+      "target": "Latvian",
+      "value": 51
+    },
+    {
+      "source": "Greek",
+      "target": "Lithuanian",
+      "value": 32737
+    },
+    {
+      "source": "Greek",
+      "target": "Low German",
+      "value": 408
+    },
+    {
+      "source": "Greek",
+      "target": "Macedonian",
+      "value": 2
+    },
+    {
+      "source": "Greek",
+      "target": "Malay",
+      "value": 8
+    },
+    {
+      "source": "Greek",
+      "target": "Manchu",
+      "value": 4
+    },
+    {
+      "source": "Greek",
+      "target": "Mandar",
+      "value": 8
+    },
+    {
+      "source": "Greek",
+      "target": "Mari",
+      "value": 1
+    },
+    {
+      "source": "Greek",
+      "target": "Middle Dutch",
+      "value": 11856
+    },
+    {
+      "source": "Greek",
+      "target": "Middle English",
+      "value": 36539
+    },
+    {
+      "source": "Greek",
+      "target": "Middle French",
+      "value": 3
+    },
+    {
+      "source": "Greek",
+      "target": "Middle High German",
+      "value": 2075
+    },
+    {
+      "source": "Greek",
+      "target": "Middle Irish",
+      "value": 148
+    },
+    {
+      "source": "Greek",
+      "target": "Modern Greek",
+      "value": 128
+    },
+    {
+      "source": "Greek",
+      "target": "Mongo",
+      "value": 4
+    },
+    {
+      "source": "Greek",
+      "target": "Mongolian",
+      "value": 4
+    },
+    {
+      "source": "Greek",
+      "target": "Nahuatl",
+      "value": 52
+    },
+    {
+      "source": "Greek",
+      "target": "Norwegian",
+      "value": 519
+    },
+    {
+      "source": "Greek",
+      "target": "Old Church Slavonic",
+      "value": 33096
+    },
+    {
+      "source": "Greek",
+      "target": "Old English",
+      "value": 52663
+    },
+    {
+      "source": "Greek",
+      "target": "Old French",
+      "value": 4192
+    },
+    {
+      "source": "Greek",
+      "target": "Old High German",
+      "value": 41140
+    },
+    {
+      "source": "Greek",
+      "target": "Old Irish",
+      "value": 28901
+    },
+    {
+      "source": "Greek",
+      "target": "Old Norse",
+      "value": 18327
+    },
+    {
+      "source": "Greek",
+      "target": "Old Persian",
+      "value": 3638
+    },
+    {
+      "source": "Greek",
+      "target": "Old Provençal",
+      "value": 16
+    },
+    {
+      "source": "Greek",
+      "target": "Persian",
+      "value": 3971
+    },
+    {
+      "source": "Greek",
+      "target": "Phoenician",
+      "value": 1
+    },
+    {
+      "source": "Greek",
+      "target": "Polish",
+      "value": 187
+    },
+    {
+      "source": "Greek",
+      "target": "Portuguese",
+      "value": 369
+    },
+    {
+      "source": "Greek",
+      "target": "Provençal",
+      "value": 125
+    },
+    {
+      "source": "Greek",
+      "target": "Romance",
+      "value": 73
+    },
+    {
+      "source": "Greek",
+      "target": "Russian",
+      "value": 21105
+    },
+    {
+      "source": "Greek",
+      "target": "Sanskrit",
+      "value": 11803
+    },
+    {
+      "source": "Greek",
+      "target": "Scots",
+      "value": 641
+    },
+    {
+      "source": "Greek",
+      "target": "Semitic",
+      "value": 22
+    },
+    {
+      "source": "Greek",
+      "target": "Slavic",
+      "value": 1414
+    },
+    {
+      "source": "Greek",
+      "target": "Spanish",
+      "value": 1924
+    },
+    {
+      "source": "Greek",
+      "target": "Swedish",
+      "value": 4302
+    },
+    {
+      "source": "Greek",
+      "target": "Syriac",
+      "value": 1
+    },
+    {
+      "source": "Greek",
+      "target": "Turkish",
+      "value": 77
+    },
+    {
+      "source": "Greek",
+      "target": "Walloon",
+      "value": 1
+    },
+    {
+      "source": "Greek",
+      "target": "Welsh",
+      "value": 2552
+    },
+    {
+      "source": "Haitian",
+      "target": "Portuguese",
+      "value": 2
+    },
+    {
+      "source": "Haitian",
+      "target": "Spanish",
+      "value": 2
+    },
+    {
+      "source": "Haitian",
+      "target": "Tai",
+      "value": 2
+    },
+    {
+      "source": "Hawaiian",
+      "target": "Latin",
+      "value": 8
+    },
+    {
+      "source": "Hawaiian",
+      "target": "Old French",
+      "value": 8
+    },
+    {
+      "source": "Hebrew",
+      "target": "Hittite",
+      "value": 1
+    },
+    {
+      "source": "Hebrew",
+      "target": "Indo-European",
+      "value": 31
+    },
+    {
+      "source": "Hebrew",
+      "target": "Irish",
+      "value": 38
+    },
+    {
+      "source": "Hebrew",
+      "target": "Italian",
+      "value": 824
+    },
+    {
+      "source": "Hebrew",
+      "target": "Latin",
+      "value": 1258
+    },
+    {
+      "source": "Hebrew",
+      "target": "Lithuanian",
+      "value": 64
+    },
+    {
+      "source": "Hebrew",
+      "target": "Low German",
+      "value": 76
+    },
+    {
+      "source": "Hebrew",
+      "target": "Middle Dutch",
+      "value": 950
+    },
+    {
+      "source": "Hebrew",
+      "target": "Middle English",
+      "value": 854
+    },
+    {
+      "source": "Hebrew",
+      "target": "Old Church Slavonic",
+      "value": 87
+    },
+    {
+      "source": "Hebrew",
+      "target": "Old English",
+      "value": 1433
+    },
+    {
+      "source": "Hebrew",
+      "target": "Old French",
+      "value": 573
+    },
+    {
+      "source": "Hebrew",
+      "target": "Old High German",
+      "value": 995
+    },
+    {
+      "source": "Hebrew",
+      "target": "Old Irish",
+      "value": 14
+    },
+    {
+      "source": "Hebrew",
+      "target": "Old Norse",
+      "value": 603
+    },
+    {
+      "source": "Hebrew",
+      "target": "Persian",
+      "value": 1
+    },
+    {
+      "source": "Hebrew",
+      "target": "Phoenician",
+      "value": 2
+    },
+    {
+      "source": "Hebrew",
+      "target": "Polish",
+      "value": 16
+    },
+    {
+      "source": "Hebrew",
+      "target": "Portuguese",
+      "value": 11
+    },
+    {
+      "source": "Hebrew",
+      "target": "Provençal",
+      "value": 99
+    },
+    {
+      "source": "Hebrew",
+      "target": "Romance",
+      "value": 1
+    },
+    {
+      "source": "Hebrew",
+      "target": "Russian",
+      "value": 17
+    },
+    {
+      "source": "Hebrew",
+      "target": "Sanskrit",
+      "value": 80
+    },
+    {
+      "source": "Hebrew",
+      "target": "Semitic",
+      "value": 22
+    },
+    {
+      "source": "Hebrew",
+      "target": "Spanish",
+      "value": 824
+    },
+    {
+      "source": "Hebrew",
+      "target": "Swedish",
+      "value": 27
+    },
+    {
+      "source": "Hebrew",
+      "target": "Syriac",
+      "value": 1
+    },
+    {
+      "source": "Hebrew",
+      "target": "Turkish",
+      "value": 1
+    },
+    {
+      "source": "Hindi",
+      "target": "Indo-European",
+      "value": 16
+    },
+    {
+      "source": "Hindi",
+      "target": "Latin",
+      "value": 16
+    },
+    {
+      "source": "Hindi",
+      "target": "Malay",
+      "value": 2
+    },
+    {
+      "source": "Hindi",
+      "target": "Malayalam",
+      "value": 2
+    },
+    {
+      "source": "Hindi",
+      "target": "Middle English",
+      "value": 16
+    },
+    {
+      "source": "Hindi",
+      "target": "Middle High German",
+      "value": 16
+    },
+    {
+      "source": "Hindi",
+      "target": "Old English",
+      "value": 16
+    },
+    {
+      "source": "Hindi",
+      "target": "Old High German",
+      "value": 16
+    },
+    {
+      "source": "Hindi",
+      "target": "Old Norse",
+      "value": 16
+    },
+    {
+      "source": "Hindi",
+      "target": "Portuguese",
+      "value": 2
+    },
+    {
+      "source": "Hindi",
+      "target": "Sanskrit",
+      "value": 17
+    },
+    {
+      "source": "Hindi",
+      "target": "Tamil",
+      "value": 2
+    },
+    {
+      "source": "Hindi",
+      "target": "Telugu",
+      "value": 2
+    },
+    {
+      "source": "Hittite",
+      "target": "Indo-European",
+      "value": 20
+    },
+    {
+      "source": "Hittite",
+      "target": "Irish",
+      "value": 7657
+    },
+    {
+      "source": "Hittite",
+      "target": "Italian",
+      "value": 5
+    },
+    {
+      "source": "Hittite",
+      "target": "Latin",
+      "value": 8222
+    },
+    {
+      "source": "Hittite",
+      "target": "Lithuanian",
+      "value": 11473
+    },
+    {
+      "source": "Hittite",
+      "target": "Middle Dutch",
+      "value": 5084
+    },
+    {
+      "source": "Hittite",
+      "target": "Middle English",
+      "value": 7952
+    },
+    {
+      "source": "Hittite",
+      "target": "Middle High German",
+      "value": 106
+    },
+    {
+      "source": "Hittite",
+      "target": "Middle Irish",
+      "value": 2
+    },
+    {
+      "source": "Hittite",
+      "target": "Norwegian",
+      "value": 19
+    },
+    {
+      "source": "Hittite",
+      "target": "Old Church Slavonic",
+      "value": 11187
+    },
+    {
+      "source": "Hittite",
+      "target": "Old English",
+      "value": 12445
+    },
+    {
+      "source": "Hittite",
+      "target": "Old French",
+      "value": 65
+    },
+    {
+      "source": "Hittite",
+      "target": "Old High German",
+      "value": 10202
+    },
+    {
+      "source": "Hittite",
+      "target": "Old Irish",
+      "value": 7653
+    },
+    {
+      "source": "Hittite",
+      "target": "Old Norse",
+      "value": 12241
+    },
+    {
+      "source": "Hittite",
+      "target": "Old Persian",
+      "value": 6361
+    },
+    {
+      "source": "Hittite",
+      "target": "Persian",
+      "value": 6361
+    },
+    {
+      "source": "Hittite",
+      "target": "Provençal",
+      "value": 5
+    },
+    {
+      "source": "Hittite",
+      "target": "Russian",
+      "value": 74
+    },
+    {
+      "source": "Hittite",
+      "target": "Sanskrit",
+      "value": 7485
+    },
+    {
+      "source": "Hittite",
+      "target": "Semitic",
+      "value": 1
+    },
+    {
+      "source": "Hittite",
+      "target": "Slavic",
+      "value": 51
+    },
+    {
+      "source": "Hittite",
+      "target": "Swedish",
+      "value": 25
+    },
+    {
+      "source": "Hittite",
+      "target": "Welsh",
+      "value": 53
+    },
+    {
+      "source": "Hungarian",
+      "target": "Iranian",
+      "value": 6
+    },
+    {
+      "source": "Hungarian",
+      "target": "Irish",
+      "value": 15
+    },
+    {
+      "source": "Hungarian",
+      "target": "Italian",
+      "value": 19
+    },
+    {
+      "source": "Hungarian",
+      "target": "Latin",
+      "value": 9
+    },
+    {
+      "source": "Hungarian",
+      "target": "Lithuanian",
+      "value": 9
+    },
+    {
+      "source": "Hungarian",
+      "target": "Middle English",
+      "value": 9
+    },
+    {
+      "source": "Hungarian",
+      "target": "Old English",
+      "value": 18
+    },
+    {
+      "source": "Hungarian",
+      "target": "Old French",
+      "value": 3
+    },
+    {
+      "source": "Hungarian",
+      "target": "Old High German",
+      "value": 9
+    },
+    {
+      "source": "Hungarian",
+      "target": "Old Norse",
+      "value": 9
+    },
+    {
+      "source": "Hungarian",
+      "target": "Old Persian",
+      "value": 6
+    },
+    {
+      "source": "Hungarian",
+      "target": "Persian",
+      "value": 6
+    },
+    {
+      "source": "Hungarian",
+      "target": "Polish",
+      "value": 18
+    },
+    {
+      "source": "Hungarian",
+      "target": "Portuguese",
+      "value": 1
+    },
+    {
+      "source": "Hungarian",
+      "target": "Russian",
+      "value": 15
+    },
+    {
+      "source": "Hungarian",
+      "target": "Slavic",
+      "value": 9
+    },
+    {
+      "source": "Hungarian",
+      "target": "Spanish",
+      "value": 19
+    },
+    {
+      "source": "Hungarian",
+      "target": "Swedish",
+      "value": 6
+    },
+    {
+      "source": "Hungarian",
+      "target": "Turkish",
+      "value": 6
+    },
+    {
+      "source": "Hungarian",
+      "target": "Welsh",
+      "value": 9
+    },
+    {
+      "source": "Icelandic",
+      "target": "Indo-European",
+      "value": 237
+    },
+    {
+      "source": "Icelandic",
+      "target": "Irish",
+      "value": 34
+    },
+    {
+      "source": "Icelandic",
+      "target": "Italian",
+      "value": 237
+    },
+    {
+      "source": "Icelandic",
+      "target": "Latin",
+      "value": 944
+    },
+    {
+      "source": "Icelandic",
+      "target": "Lithuanian",
+      "value": 196
+    },
+    {
+      "source": "Icelandic",
+      "target": "Low German",
+      "value": 154
+    },
+    {
+      "source": "Icelandic",
+      "target": "Middle Dutch",
+      "value": 752
+    },
+    {
+      "source": "Icelandic",
+      "target": "Middle English",
+      "value": 76
+    },
+    {
+      "source": "Icelandic",
+      "target": "Modern Greek",
+      "value": 51
+    },
+    {
+      "source": "Icelandic",
+      "target": "Norwegian",
+      "value": 138
+    },
+    {
+      "source": "Icelandic",
+      "target": "Old Church Slavonic",
+      "value": 337
+    },
+    {
+      "source": "Icelandic",
+      "target": "Old English",
+      "value": 1170
+    },
+    {
+      "source": "Icelandic",
+      "target": "Old French",
+      "value": 255
+    },
+    {
+      "source": "Icelandic",
+      "target": "Old High German",
+      "value": 792
+    },
+    {
+      "source": "Icelandic",
+      "target": "Old Irish",
+      "value": 4
+    },
+    {
+      "source": "Icelandic",
+      "target": "Old Norse",
+      "value": 1023
+    },
+    {
+      "source": "Icelandic",
+      "target": "Ossetian",
+      "value": 10
+    },
+    {
+      "source": "Icelandic",
+      "target": "Persian",
+      "value": 33
+    },
+    {
+      "source": "Icelandic",
+      "target": "Portuguese",
+      "value": 186
+    },
+    {
+      "source": "Icelandic",
+      "target": "Romance",
+      "value": 51
+    },
+    {
+      "source": "Icelandic",
+      "target": "Russian",
+      "value": 196
+    },
+    {
+      "source": "Icelandic",
+      "target": "Sanskrit",
+      "value": 184
+    },
+    {
+      "source": "Icelandic",
+      "target": "Spanish",
+      "value": 901
+    },
+    {
+      "source": "Icelandic",
+      "target": "Swedish",
+      "value": 243
+    },
+    {
+      "source": "Icelandic",
+      "target": "Welsh",
+      "value": 69
+    },
+    {
+      "source": "Indo-European",
+      "target": "Iranian",
+      "value": 565
+    },
+    {
+      "source": "Indo-European",
+      "target": "Irish",
+      "value": 1147
+    },
+    {
+      "source": "Indo-European",
+      "target": "Italian",
+      "value": 881
+    },
+    {
+      "source": "Indo-European",
+      "target": "Korean",
+      "value": 52
+    },
+    {
+      "source": "Indo-European",
+      "target": "Latin",
+      "value": 3438
+    },
+    {
+      "source": "Indo-European",
+      "target": "Lithuanian",
+      "value": 1359
+    },
+    {
+      "source": "Indo-European",
+      "target": "Low German",
+      "value": 161
+    },
+    {
+      "source": "Indo-European",
+      "target": "Middle Dutch",
+      "value": 1949
+    },
+    {
+      "source": "Indo-European",
+      "target": "Middle English",
+      "value": 3163
+    },
+    {
+      "source": "Indo-European",
+      "target": "Middle High German",
+      "value": 27
+    },
+    {
+      "source": "Indo-European",
+      "target": "Modern Greek",
+      "value": 51
+    },
+    {
+      "source": "Indo-European",
+      "target": "Nahuatl",
+      "value": 52
+    },
+    {
+      "source": "Indo-European",
+      "target": "Norwegian",
+      "value": 19
+    },
+    {
+      "source": "Indo-European",
+      "target": "Occitan",
+      "value": 6
+    },
+    {
+      "source": "Indo-European",
+      "target": "Old Church Slavonic",
+      "value": 1189
+    },
+    {
+      "source": "Indo-European",
+      "target": "Old English",
+      "value": 5514
+    },
+    {
+      "source": "Indo-European",
+      "target": "Old French",
+      "value": 869
+    },
+    {
+      "source": "Indo-European",
+      "target": "Old High German",
+      "value": 3393
+    },
+    {
+      "source": "Indo-European",
+      "target": "Old Irish",
+      "value": 98
+    },
+    {
+      "source": "Indo-European",
+      "target": "Old Norse",
+      "value": 4162
+    },
+    {
+      "source": "Indo-European",
+      "target": "Old Persian",
+      "value": 55
+    },
+    {
+      "source": "Indo-European",
+      "target": "Old Provençal",
+      "value": 7
+    },
+    {
+      "source": "Indo-European",
+      "target": "Persian",
+      "value": 55
+    },
+    {
+      "source": "Indo-European",
+      "target": "Polish",
+      "value": 178
+    },
+    {
+      "source": "Indo-European",
+      "target": "Portuguese",
+      "value": 211
+    },
+    {
+      "source": "Indo-European",
+      "target": "Provençal",
+      "value": 13
+    },
+    {
+      "source": "Indo-European",
+      "target": "Romance",
+      "value": 51
+    },
+    {
+      "source": "Indo-European",
+      "target": "Romanian",
+      "value": 17
+    },
+    {
+      "source": "Indo-European",
+      "target": "Russian",
+      "value": 445
+    },
+    {
+      "source": "Indo-European",
+      "target": "Sanskrit",
+      "value": 816
+    },
+    {
+      "source": "Indo-European",
+      "target": "Scots",
+      "value": 641
+    },
+    {
+      "source": "Indo-European",
+      "target": "Semitic",
+      "value": 2
+    },
+    {
+      "source": "Indo-European",
+      "target": "Slavic",
+      "value": 118
+    },
+    {
+      "source": "Indo-European",
+      "target": "Spanish",
+      "value": 827
+    },
+    {
+      "source": "Indo-European",
+      "target": "Swedish",
+      "value": 916
+    },
+    {
+      "source": "Indo-European",
+      "target": "Welsh",
+      "value": 820
+    },
+    {
+      "source": "Iranian",
+      "target": "Irish",
+      "value": 13
+    },
+    {
+      "source": "Iranian",
+      "target": "Italian",
+      "value": 6
+    },
+    {
+      "source": "Iranian",
+      "target": "Latin",
+      "value": 301
+    },
+    {
+      "source": "Iranian",
+      "target": "Lithuanian",
+      "value": 13
+    },
+    {
+      "source": "Iranian",
+      "target": "Middle Dutch",
+      "value": 558
+    },
+    {
+      "source": "Iranian",
+      "target": "Middle English",
+      "value": 294
+    },
+    {
+      "source": "Iranian",
+      "target": "Old Church Slavonic",
+      "value": 7
+    },
+    {
+      "source": "Iranian",
+      "target": "Old English",
+      "value": 605
+    },
+    {
+      "source": "Iranian",
+      "target": "Old French",
+      "value": 1
+    },
+    {
+      "source": "Iranian",
+      "target": "Old High German",
+      "value": 565
+    },
+    {
+      "source": "Iranian",
+      "target": "Old Norse",
+      "value": 599
+    },
+    {
+      "source": "Iranian",
+      "target": "Old Persian",
+      "value": 6
+    },
+    {
+      "source": "Iranian",
+      "target": "Persian",
+      "value": 7
+    },
+    {
+      "source": "Iranian",
+      "target": "Polish",
+      "value": 40
+    },
+    {
+      "source": "Iranian",
+      "target": "Russian",
+      "value": 6
+    },
+    {
+      "source": "Iranian",
+      "target": "Sanskrit",
+      "value": 34
+    },
+    {
+      "source": "Iranian",
+      "target": "Spanish",
+      "value": 293
+    },
+    {
+      "source": "Iranian",
+      "target": "Swedish",
+      "value": 293
+    },
+    {
+      "source": "Iranian",
+      "target": "Turkish",
+      "value": 6
+    },
+    {
+      "source": "Iranian",
+      "target": "Welsh",
+      "value": 6
+    },
+    {
+      "source": "Irish",
+      "target": "Italian",
+      "value": 500
+    },
+    {
+      "source": "Irish",
+      "target": "Kru",
+      "value": 1
+    },
+    {
+      "source": "Irish",
+      "target": "Latin",
+      "value": 35213
+    },
+    {
+      "source": "Irish",
+      "target": "Latvian",
+      "value": 50
+    },
+    {
+      "source": "Irish",
+      "target": "Lithuanian",
+      "value": 32984
+    },
+    {
+      "source": "Irish",
+      "target": "Low German",
+      "value": 416
+    },
+    {
+      "source": "Irish",
+      "target": "Manx",
+      "value": 5
+    },
+    {
+      "source": "Irish",
+      "target": "Mari",
+      "value": 21
+    },
+    {
+      "source": "Irish",
+      "target": "Middle Dutch",
+      "value": 7692
+    },
+    {
+      "source": "Irish",
+      "target": "Middle English",
+      "value": 35102
+    },
+    {
+      "source": "Irish",
+      "target": "Middle High German",
+      "value": 20
+    },
+    {
+      "source": "Irish",
+      "target": "Middle Irish",
+      "value": 580
+    },
+    {
+      "source": "Irish",
+      "target": "Old Church Slavonic",
+      "value": 33071
+    },
+    {
+      "source": "Irish",
+      "target": "Old English",
+      "value": 38433
+    },
+    {
+      "source": "Irish",
+      "target": "Old French",
+      "value": 538
+    },
+    {
+      "source": "Irish",
+      "target": "Old High German",
+      "value": 34694
+    },
+    {
+      "source": "Irish",
+      "target": "Old Irish",
+      "value": 36733
+    },
+    {
+      "source": "Irish",
+      "target": "Old Norse",
+      "value": 13904
+    },
+    {
+      "source": "Irish",
+      "target": "Old Persian",
+      "value": 2236
+    },
+    {
+      "source": "Irish",
+      "target": "Persian",
+      "value": 2410
+    },
+    {
+      "source": "Irish",
+      "target": "Polish",
+      "value": 239
+    },
+    {
+      "source": "Irish",
+      "target": "Portuguese",
+      "value": 49
+    },
+    {
+      "source": "Irish",
+      "target": "Provençal",
+      "value": 5
+    },
+    {
+      "source": "Irish",
+      "target": "Russian",
+      "value": 19783
+    },
+    {
+      "source": "Irish",
+      "target": "Sanskrit",
+      "value": 5736
+    },
+    {
+      "source": "Irish",
+      "target": "Slavic",
+      "value": 998
+    },
+    {
+      "source": "Irish",
+      "target": "Spanish",
+      "value": 154
+    },
+    {
+      "source": "Irish",
+      "target": "Swedish",
+      "value": 2965
+    },
+    {
+      "source": "Irish",
+      "target": "Turkish",
+      "value": 6
+    },
+    {
+      "source": "Irish",
+      "target": "Welsh",
+      "value": 5030
+    },
+    {
+      "source": "Italian",
+      "target": "Japanese",
+      "value": 2
+    },
+    {
+      "source": "Italian",
+      "target": "Latin",
+      "value": 8718
+    },
+    {
+      "source": "Italian",
+      "target": "Latvian",
+      "value": 2
+    },
+    {
+      "source": "Italian",
+      "target": "Lithuanian",
+      "value": 1119
+    },
+    {
+      "source": "Italian",
+      "target": "Low German",
+      "value": 650
+    },
+    {
+      "source": "Italian",
+      "target": "Manchu",
+      "value": 4
+    },
+    {
+      "source": "Italian",
+      "target": "Middle Dutch",
+      "value": 2034
+    },
+    {
+      "source": "Italian",
+      "target": "Middle English",
+      "value": 3181
+    },
+    {
+      "source": "Italian",
+      "target": "Middle French",
+      "value": 2
+    },
+    {
+      "source": "Italian",
+      "target": "Middle High German",
+      "value": 317
+    },
+    {
+      "source": "Italian",
+      "target": "Middle Irish",
+      "value": 29
+    },
+    {
+      "source": "Italian",
+      "target": "Modern Greek",
+      "value": 51
+    },
+    {
+      "source": "Italian",
+      "target": "Mongo",
+      "value": 4
+    },
+    {
+      "source": "Italian",
+      "target": "Mongolian",
+      "value": 4
+    },
+    {
+      "source": "Italian",
+      "target": "North American Indian",
+      "value": 153
+    },
+    {
+      "source": "Italian",
+      "target": "Norwegian",
+      "value": 335
+    },
+    {
+      "source": "Italian",
+      "target": "Occitan",
+      "value": 6
+    },
+    {
+      "source": "Italian",
+      "target": "Old Church Slavonic",
+      "value": 388
+    },
+    {
+      "source": "Italian",
+      "target": "Old English",
+      "value": 5914
+    },
+    {
+      "source": "Italian",
+      "target": "Old French",
+      "value": 7536
+    },
+    {
+      "source": "Italian",
+      "target": "Old High German",
+      "value": 2085
+    },
+    {
+      "source": "Italian",
+      "target": "Old Irish",
+      "value": 65
+    },
+    {
+      "source": "Italian",
+      "target": "Old Norse",
+      "value": 1735
+    },
+    {
+      "source": "Italian",
+      "target": "Old Persian",
+      "value": 33
+    },
+    {
+      "source": "Italian",
+      "target": "Old Provençal",
+      "value": 72
+    },
+    {
+      "source": "Italian",
+      "target": "Pali",
+      "value": 77
+    },
+    {
+      "source": "Italian",
+      "target": "Persian",
+      "value": 45
+    },
+    {
+      "source": "Italian",
+      "target": "Polish",
+      "value": 151
+    },
+    {
+      "source": "Italian",
+      "target": "Portuguese",
+      "value": 1808
+    },
+    {
+      "source": "Italian",
+      "target": "Provençal",
+      "value": 505
+    },
+    {
+      "source": "Italian",
+      "target": "Romance",
+      "value": 486
+    },
+    {
+      "source": "Italian",
+      "target": "Romanian",
+      "value": 17
+    },
+    {
+      "source": "Italian",
+      "target": "Russian",
+      "value": 359
+    },
+    {
+      "source": "Italian",
+      "target": "Sanskrit",
+      "value": 217
+    },
+    {
+      "source": "Italian",
+      "target": "Semitic",
+      "value": 13
+    },
+    {
+      "source": "Italian",
+      "target": "Slavic",
+      "value": 513
+    },
+    {
+      "source": "Italian",
+      "target": "Spanish",
+      "value": 8066
+    },
+    {
+      "source": "Italian",
+      "target": "Swedish",
+      "value": 778
+    },
+    {
+      "source": "Italian",
+      "target": "Turkish",
+      "value": 13
+    },
+    {
+      "source": "Italian",
+      "target": "Welsh",
+      "value": 101
+    },
+    {
+      "source": "Japanese",
+      "target": "Latin",
+      "value": 232
+    },
+    {
+      "source": "Japanese",
+      "target": "Middle English",
+      "value": 9
+    },
+    {
+      "source": "Japanese",
+      "target": "Middle High German",
+      "value": 9
+    },
+    {
+      "source": "Japanese",
+      "target": "Old English",
+      "value": 409
+    },
+    {
+      "source": "Japanese",
+      "target": "Old French",
+      "value": 8
+    },
+    {
+      "source": "Japanese",
+      "target": "Old High German",
+      "value": 223
+    },
+    {
+      "source": "Japanese",
+      "target": "Old Norse",
+      "value": 236
+    },
+    {
+      "source": "Japanese",
+      "target": "Portuguese",
+      "value": 2
+    },
+    {
+      "source": "Japanese",
+      "target": "Spanish",
+      "value": 2
+    },
+    {
+      "source": "Japanese",
+      "target": "Swedish",
+      "value": 2
+    },
+    {
+      "source": "Korean",
+      "target": "Middle Dutch",
+      "value": 19
+    },
+    {
+      "source": "Korean",
+      "target": "Middle English",
+      "value": 19
+    },
+    {
+      "source": "Korean",
+      "target": "Nahuatl",
+      "value": 52
+    },
+    {
+      "source": "Korean",
+      "target": "Old Church Slavonic",
+      "value": 52
+    },
+    {
+      "source": "Korean",
+      "target": "Old English",
+      "value": 71
+    },
+    {
+      "source": "Korean",
+      "target": "Old High German",
+      "value": 19
+    },
+    {
+      "source": "Korean",
+      "target": "Old Norse",
+      "value": 19
+    },
+    {
+      "source": "Korean",
+      "target": "Old Persian",
+      "value": 52
+    },
+    {
+      "source": "Korean",
+      "target": "Persian",
+      "value": 52
+    },
+    {
+      "source": "Korean",
+      "target": "Russian",
+      "value": 52
+    },
+    {
+      "source": "Kru",
+      "target": "Low German",
+      "value": 1
+    },
+    {
+      "source": "Kru",
+      "target": "Middle Dutch",
+      "value": 7
+    },
+    {
+      "source": "Kru",
+      "target": "Middle English",
+      "value": 7
+    },
+    {
+      "source": "Kru",
+      "target": "Middle Irish",
+      "value": 1
+    },
+    {
+      "source": "Kru",
+      "target": "Old Church Slavonic",
+      "value": 1
+    },
+    {
+      "source": "Kru",
+      "target": "Old English",
+      "value": 7
+    },
+    {
+      "source": "Kru",
+      "target": "Old High German",
+      "value": 1
+    },
+    {
+      "source": "Kru",
+      "target": "Old Norse",
+      "value": 1
+    },
+    {
+      "source": "Lao",
+      "target": "Old English",
+      "value": 46
+    },
+    {
+      "source": "Lao",
+      "target": "Old Norse",
+      "value": 46
+    },
+    {
+      "source": "Lao",
+      "target": "Yiddish",
+      "value": 46
+    },
+    {
+      "source": "Latin",
+      "target": "Latvian",
+      "value": 69
+    },
+    {
+      "source": "Latin",
+      "target": "Lithuanian",
+      "value": 38702
+    },
+    {
+      "source": "Latin",
+      "target": "Low German",
+      "value": 970
+    },
+    {
+      "source": "Latin",
+      "target": "Macedonian",
+      "value": 2
+    },
+    {
+      "source": "Latin",
+      "target": "Manchu",
+      "value": 4
+    },
+    {
+      "source": "Latin",
+      "target": "Mari",
+      "value": 875
+    },
+    {
+      "source": "Latin",
+      "target": "Middle Dutch",
+      "value": 22988
+    },
+    {
+      "source": "Latin",
+      "target": "Middle English",
+      "value": 66404
+    },
+    {
+      "source": "Latin",
+      "target": "Middle French",
+      "value": 3
+    },
+    {
+      "source": "Latin",
+      "target": "Middle High German",
+      "value": 5087
+    },
+    {
+      "source": "Latin",
+      "target": "Middle Irish",
+      "value": 456
+    },
+    {
+      "source": "Latin",
+      "target": "Modern Greek",
+      "value": 51
+    },
+    {
+      "source": "Latin",
+      "target": "Mongo",
+      "value": 4
+    },
+    {
+      "source": "Latin",
+      "target": "Mongolian",
+      "value": 4
+    },
+    {
+      "source": "Latin",
+      "target": "North American Indian",
+      "value": 226
+    },
+    {
+      "source": "Latin",
+      "target": "Norwegian",
+      "value": 387
+    },
+    {
+      "source": "Latin",
+      "target": "Occitan",
+      "value": 6
+    },
+    {
+      "source": "Latin",
+      "target": "Old Church Slavonic",
+      "value": 41836
+    },
+    {
+      "source": "Latin",
+      "target": "Old English",
+      "value": 93927
+    },
+    {
+      "source": "Latin",
+      "target": "Old French",
+      "value": 37373
+    },
+    {
+      "source": "Latin",
+      "target": "Old High German",
+      "value": 53723
+    },
+    {
+      "source": "Latin",
+      "target": "Old Irish",
+      "value": 33331
+    },
+    {
+      "source": "Latin",
+      "target": "Old Norse",
+      "value": 51738
+    },
+    {
+      "source": "Latin",
+      "target": "Old Persian",
+      "value": 3180
+    },
+    {
+      "source": "Latin",
+      "target": "Old Provençal",
+      "value": 161
+    },
+    {
+      "source": "Latin",
+      "target": "Ossetian",
+      "value": 10
+    },
+    {
+      "source": "Latin",
+      "target": "Pali",
+      "value": 77
+    },
+    {
+      "source": "Latin",
+      "target": "Persian",
+      "value": 3541
+    },
+    {
+      "source": "Latin",
+      "target": "Phoenician",
+      "value": 3
+    },
+    {
+      "source": "Latin",
+      "target": "Polish",
+      "value": 383
+    },
+    {
+      "source": "Latin",
+      "target": "Portuguese",
+      "value": 1884
+    },
+    {
+      "source": "Latin",
+      "target": "Provençal",
+      "value": 570
+    },
+    {
+      "source": "Latin",
+      "target": "Romance",
+      "value": 668
+    },
+    {
+      "source": "Latin",
+      "target": "Romanian",
+      "value": 17
+    },
+    {
+      "source": "Latin",
+      "target": "Russian",
+      "value": 21800
+    },
+    {
+      "source": "Latin",
+      "target": "Sanskrit",
+      "value": 13193
+    },
+    {
+      "source": "Latin",
+      "target": "Scots",
+      "value": 641
+    },
+    {
+      "source": "Latin",
+      "target": "Semitic",
+      "value": 31
+    },
+    {
+      "source": "Latin",
+      "target": "Slavic",
+      "value": 2223
+    },
+    {
+      "source": "Latin",
+      "target": "Slovenian",
+      "value": 27
+    },
+    {
+      "source": "Latin",
+      "target": "Spanish",
+      "value": 8911
+    },
+    {
+      "source": "Latin",
+      "target": "Swedish",
+      "value": 6353
+    },
+    {
+      "source": "Latin",
+      "target": "Syriac",
+      "value": 1
+    },
+    {
+      "source": "Latin",
+      "target": "Tibetan",
+      "value": 6
+    },
+    {
+      "source": "Latin",
+      "target": "Turkish",
+      "value": 69
+    },
+    {
+      "source": "Latin",
+      "target": "Vai",
+      "value": 36
+    },
+    {
+      "source": "Latin",
+      "target": "Walloon",
+      "value": 2
+    },
+    {
+      "source": "Latin",
+      "target": "Welsh",
+      "value": 3471
+    },
+    {
+      "source": "Latvian",
+      "target": "Lithuanian",
+      "value": 53
+    },
+    {
+      "source": "Latvian",
+      "target": "Low German",
+      "value": 64
+    },
+    {
+      "source": "Latvian",
+      "target": "Middle English",
+      "value": 64
+    },
+    {
+      "source": "Latvian",
+      "target": "Middle High German",
+      "value": 65
+    },
+    {
+      "source": "Latvian",
+      "target": "Old English",
+      "value": 117
+    },
+    {
+      "source": "Latvian",
+      "target": "Old French",
+      "value": 4
+    },
+    {
+      "source": "Latvian",
+      "target": "Old High German",
+      "value": 115
+    },
+    {
+      "source": "Latvian",
+      "target": "Old Irish",
+      "value": 50
+    },
+    {
+      "source": "Latvian",
+      "target": "Old Norse",
+      "value": 51
+    },
+    {
+      "source": "Latvian",
+      "target": "Romance",
+      "value": 66
+    },
+    {
+      "source": "Latvian",
+      "target": "Russian",
+      "value": 54
+    },
+    {
+      "source": "Latvian",
+      "target": "Sanskrit",
+      "value": 65
+    },
+    {
+      "source": "Latvian",
+      "target": "Slavic",
+      "value": 65
+    },
+    {
+      "source": "Latvian",
+      "target": "Swedish",
+      "value": 64
+    },
+    {
+      "source": "Lithuanian",
+      "target": "Low German",
+      "value": 839
+    },
+    {
+      "source": "Lithuanian",
+      "target": "Manchu",
+      "value": 4
+    },
+    {
+      "source": "Lithuanian",
+      "target": "Middle Dutch",
+      "value": 9352
+    },
+    {
+      "source": "Lithuanian",
+      "target": "Middle English",
+      "value": 35032
+    },
+    {
+      "source": "Lithuanian",
+      "target": "Middle High German",
+      "value": 506
+    },
+    {
+      "source": "Lithuanian",
+      "target": "Middle Irish",
+      "value": 250
+    },
+    {
+      "source": "Lithuanian",
+      "target": "Mongo",
+      "value": 4
+    },
+    {
+      "source": "Lithuanian",
+      "target": "Mongolian",
+      "value": 4
+    },
+    {
+      "source": "Lithuanian",
+      "target": "Norwegian",
+      "value": 29
+    },
+    {
+      "source": "Lithuanian",
+      "target": "Old Church Slavonic",
+      "value": 42595
+    },
+    {
+      "source": "Lithuanian",
+      "target": "Old English",
+      "value": 47457
+    },
+    {
+      "source": "Lithuanian",
+      "target": "Old French",
+      "value": 1087
+    },
+    {
+      "source": "Lithuanian",
+      "target": "Old High German",
+      "value": 40106
+    },
+    {
+      "source": "Lithuanian",
+      "target": "Old Irish",
+      "value": 32148
+    },
+    {
+      "source": "Lithuanian",
+      "target": "Old Norse",
+      "value": 19236
+    },
+    {
+      "source": "Lithuanian",
+      "target": "Old Persian",
+      "value": 6449
+    },
+    {
+      "source": "Lithuanian",
+      "target": "Ossetian",
+      "value": 10
+    },
+    {
+      "source": "Lithuanian",
+      "target": "Persian",
+      "value": 6710
+    },
+    {
+      "source": "Lithuanian",
+      "target": "Polish",
+      "value": 416
+    },
+    {
+      "source": "Lithuanian",
+      "target": "Portuguese",
+      "value": 222
+    },
+    {
+      "source": "Lithuanian",
+      "target": "Romance",
+      "value": 2
+    },
+    {
+      "source": "Lithuanian",
+      "target": "Russian",
+      "value": 21125
+    },
+    {
+      "source": "Lithuanian",
+      "target": "Sanskrit",
+      "value": 11434
+    },
+    {
+      "source": "Lithuanian",
+      "target": "Slavic",
+      "value": 2227
+    },
+    {
+      "source": "Lithuanian",
+      "target": "Spanish",
+      "value": 466
+    },
+    {
+      "source": "Lithuanian",
+      "target": "Swedish",
+      "value": 3100
+    },
+    {
+      "source": "Lithuanian",
+      "target": "Turkish",
+      "value": 6
+    },
+    {
+      "source": "Lithuanian",
+      "target": "Welsh",
+      "value": 2180
+    },
+    {
+      "source": "Low German",
+      "target": "Maori",
+      "value": 20
+    },
+    {
+      "source": "Low German",
+      "target": "Middle Dutch",
+      "value": 4314
+    },
+    {
+      "source": "Low German",
+      "target": "Middle English",
+      "value": 2045
+    },
+    {
+      "source": "Low German",
+      "target": "Middle High German",
+      "value": 313
+    },
+    {
+      "source": "Low German",
+      "target": "Middle Irish",
+      "value": 1
+    },
+    {
+      "source": "Low German",
+      "target": "Norwegian",
+      "value": 316
+    },
+    {
+      "source": "Low German",
+      "target": "Old Church Slavonic",
+      "value": 355
+    },
+    {
+      "source": "Low German",
+      "target": "Old English",
+      "value": 4986
+    },
+    {
+      "source": "Low German",
+      "target": "Old French",
+      "value": 199
+    },
+    {
+      "source": "Low German",
+      "target": "Old High German",
+      "value": 1809
+    },
+    {
+      "source": "Low German",
+      "target": "Old Irish",
+      "value": 39
+    },
+    {
+      "source": "Low German",
+      "target": "Old Norse",
+      "value": 3480
+    },
+    {
+      "source": "Low German",
+      "target": "Old Persian",
+      "value": 8
+    },
+    {
+      "source": "Low German",
+      "target": "Persian",
+      "value": 50
+    },
+    {
+      "source": "Low German",
+      "target": "Polish",
+      "value": 12
+    },
+    {
+      "source": "Low German",
+      "target": "Romance",
+      "value": 65
+    },
+    {
+      "source": "Low German",
+      "target": "Russian",
+      "value": 76
+    },
+    {
+      "source": "Low German",
+      "target": "Sanskrit",
+      "value": 1157
+    },
+    {
+      "source": "Low German",
+      "target": "Slavic",
+      "value": 90
+    },
+    {
+      "source": "Low German",
+      "target": "Spanish",
+      "value": 57
+    },
+    {
+      "source": "Low German",
+      "target": "Swedish",
+      "value": 1814
+    },
+    {
+      "source": "Low German",
+      "target": "Twi",
+      "value": 7
+    },
+    {
+      "source": "Low German",
+      "target": "Welsh",
+      "value": 35
+    },
+    {
+      "source": "Low German",
+      "target": "Yiddish",
+      "value": 2
+    },
+    {
+      "source": "Macedonian",
+      "target": "Old English",
+      "value": 2
+    },
+    {
+      "source": "Macedonian",
+      "target": "Spanish",
+      "value": 2
+    },
+    {
+      "source": "Malay",
+      "target": "Malayalam",
+      "value": 2
+    },
+    {
+      "source": "Malay",
+      "target": "Mandar",
+      "value": 8
+    },
+    {
+      "source": "Malay",
+      "target": "Persian",
+      "value": 8
+    },
+    {
+      "source": "Malay",
+      "target": "Portuguese",
+      "value": 10
+    },
+    {
+      "source": "Malay",
+      "target": "Russian",
+      "value": 8
+    },
+    {
+      "source": "Malay",
+      "target": "Spanish",
+      "value": 8
+    },
+    {
+      "source": "Malay",
+      "target": "Tamil",
+      "value": 2
+    },
+    {
+      "source": "Malay",
+      "target": "Telugu",
+      "value": 2
+    },
+    {
+      "source": "Malay",
+      "target": "Turkish",
+      "value": 8
+    },
+    {
+      "source": "Malayalam",
+      "target": "Portuguese",
+      "value": 2
+    },
+    {
+      "source": "Malayalam",
+      "target": "Tamil",
+      "value": 2
+    },
+    {
+      "source": "Malayalam",
+      "target": "Telugu",
+      "value": 2
+    },
+    {
+      "source": "Manchu",
+      "target": "Middle English",
+      "value": 4
+    },
+    {
+      "source": "Manchu",
+      "target": "Mongo",
+      "value": 4
+    },
+    {
+      "source": "Manchu",
+      "target": "Mongolian",
+      "value": 4
+    },
+    {
+      "source": "Manchu",
+      "target": "Old Church Slavonic",
+      "value": 4
+    },
+    {
+      "source": "Manchu",
+      "target": "Old English",
+      "value": 4
+    },
+    {
+      "source": "Manchu",
+      "target": "Old French",
+      "value": 4
+    },
+    {
+      "source": "Manchu",
+      "target": "Old Norse",
+      "value": 4
+    },
+    {
+      "source": "Manchu",
+      "target": "Slavic",
+      "value": 4
+    },
+    {
+      "source": "Manchu",
+      "target": "Spanish",
+      "value": 4
+    },
+    {
+      "source": "Mandar",
+      "target": "Persian",
+      "value": 8
+    },
+    {
+      "source": "Mandar",
+      "target": "Portuguese",
+      "value": 8
+    },
+    {
+      "source": "Mandar",
+      "target": "Russian",
+      "value": 8
+    },
+    {
+      "source": "Mandar",
+      "target": "Spanish",
+      "value": 8
+    },
+    {
+      "source": "Mandar",
+      "target": "Turkish",
+      "value": 8
+    },
+    {
+      "source": "Manx",
+      "target": "Old Irish",
+      "value": 5
+    },
+    {
+      "source": "Manx",
+      "target": "Welsh",
+      "value": 5
+    },
+    {
+      "source": "Maori",
+      "target": "Norwegian",
+      "value": 20
+    },
+    {
+      "source": "Mari",
+      "target": "Middle Dutch",
+      "value": 837
+    },
+    {
+      "source": "Mari",
+      "target": "Middle English",
+      "value": 75
+    },
+    {
+      "source": "Mari",
+      "target": "Middle French",
+      "value": 1
+    },
+    {
+      "source": "Mari",
+      "target": "Old English",
+      "value": 837
+    },
+    {
+      "source": "Mari",
+      "target": "Old French",
+      "value": 56
+    },
+    {
+      "source": "Mari",
+      "target": "Old High German",
+      "value": 837
+    },
+    {
+      "source": "Mari",
+      "target": "Old Irish",
+      "value": 21
+    },
+    {
+      "source": "Mari",
+      "target": "Old Norse",
+      "value": 33
+    },
+    {
+      "source": "Mari",
+      "target": "Polish",
+      "value": 2
+    },
+    {
+      "source": "Mari",
+      "target": "Sanskrit",
+      "value": 21
+    },
+    {
+      "source": "Middle Dutch",
+      "target": "Middle English",
+      "value": 54690
+    },
+    {
+      "source": "Middle Dutch",
+      "target": "Middle High German",
+      "value": 2943
+    },
+    {
+      "source": "Middle Dutch",
+      "target": "Middle Irish",
+      "value": 70
+    },
+    {
+      "source": "Middle Dutch",
+      "target": "Norwegian",
+      "value": 634
+    },
+    {
+      "source": "Middle Dutch",
+      "target": "Old Church Slavonic",
+      "value": 11271
+    },
+    {
+      "source": "Middle Dutch",
+      "target": "Old English",
+      "value": 105628
+    },
+    {
+      "source": "Middle Dutch",
+      "target": "Old French",
+      "value": 1479
+    },
+    {
+      "source": "Middle Dutch",
+      "target": "Old High German",
+      "value": 89324
+    },
+    {
+      "source": "Middle Dutch",
+      "target": "Old Irish",
+      "value": 7142
+    },
+    {
+      "source": "Middle Dutch",
+      "target": "Old Norse",
+      "value": 69608
+    },
+    {
+      "source": "Middle Dutch",
+      "target": "Old Persian",
+      "value": 616
+    },
+    {
+      "source": "Middle Dutch",
+      "target": "Old Provençal",
+      "value": 2
+    },
+    {
+      "source": "Middle Dutch",
+      "target": "Ossetian",
+      "value": 10
+    },
+    {
+      "source": "Middle Dutch",
+      "target": "Persian",
+      "value": 771
+    },
+    {
+      "source": "Middle Dutch",
+      "target": "Polish",
+      "value": 596
+    },
+    {
+      "source": "Middle Dutch",
+      "target": "Portuguese",
+      "value": 2
+    },
+    {
+      "source": "Middle Dutch",
+      "target": "Provençal",
+      "value": 181
+    },
+    {
+      "source": "Middle Dutch",
+      "target": "Romance",
+      "value": 30
+    },
+    {
+      "source": "Middle Dutch",
+      "target": "Russian",
+      "value": 3000
+    },
+    {
+      "source": "Middle Dutch",
+      "target": "Sanskrit",
+      "value": 9922
+    },
+    {
+      "source": "Middle Dutch",
+      "target": "Scots",
+      "value": 1
+    },
+    {
+      "source": "Middle Dutch",
+      "target": "Slavic",
+      "value": 1655
+    },
+    {
+      "source": "Middle Dutch",
+      "target": "Slovenian",
+      "value": 27
+    },
+    {
+      "source": "Middle Dutch",
+      "target": "Spanish",
+      "value": 2943
+    },
+    {
+      "source": "Middle Dutch",
+      "target": "Swedish",
+      "value": 9615
+    },
+    {
+      "source": "Middle Dutch",
+      "target": "Turkish",
+      "value": 57
+    },
+    {
+      "source": "Middle Dutch",
+      "target": "Walloon",
+      "value": 11
+    },
+    {
+      "source": "Middle Dutch",
+      "target": "Welsh",
+      "value": 1546
+    },
+    {
+      "source": "Middle Dutch",
+      "target": "Yiddish",
+      "value": 92
+    },
+    {
+      "source": "Middle English",
+      "target": "Middle High German",
+      "value": 2587
+    },
+    {
+      "source": "Middle English",
+      "target": "Middle Irish",
+      "value": 166
+    },
+    {
+      "source": "Middle English",
+      "target": "Modern Greek",
+      "value": 51
+    },
+    {
+      "source": "Middle English",
+      "target": "Mongo",
+      "value": 4
+    },
+    {
+      "source": "Middle English",
+      "target": "Mongolian",
+      "value": 4
+    },
+    {
+      "source": "Middle English",
+      "target": "North American Indian",
+      "value": 1146
+    },
+    {
+      "source": "Middle English",
+      "target": "Norwegian",
+      "value": 557
+    },
+    {
+      "source": "Middle English",
+      "target": "Ojibwa",
+      "value": 1146
+    },
+    {
+      "source": "Middle English",
+      "target": "Old Church Slavonic",
+      "value": 37262
+    },
+    {
+      "source": "Middle English",
+      "target": "Old English",
+      "value": 141464
+    },
+    {
+      "source": "Middle English",
+      "target": "Old French",
+      "value": 20038
+    },
+    {
+      "source": "Middle English",
+      "target": "Old High German",
+      "value": 83678
+    },
+    {
+      "source": "Middle English",
+      "target": "Old Irish",
+      "value": 34191
+    },
+    {
+      "source": "Middle English",
+      "target": "Old Norse",
+      "value": 70848
+    },
+    {
+      "source": "Middle English",
+      "target": "Old Persian",
+      "value": 2269
+    },
+    {
+      "source": "Middle English",
+      "target": "Old Provençal",
+      "value": 117
+    },
+    {
+      "source": "Middle English",
+      "target": "Pali",
+      "value": 77
+    },
+    {
+      "source": "Middle English",
+      "target": "Persian",
+      "value": 2376
+    },
+    {
+      "source": "Middle English",
+      "target": "Phoenician",
+      "value": 2
+    },
+    {
+      "source": "Middle English",
+      "target": "Polish",
+      "value": 351
+    },
+    {
+      "source": "Middle English",
+      "target": "Portuguese",
+      "value": 687
+    },
+    {
+      "source": "Middle English",
+      "target": "Provençal",
+      "value": 137
+    },
+    {
+      "source": "Middle English",
+      "target": "Romance",
+      "value": 204
+    },
+    {
+      "source": "Middle English",
+      "target": "Russian",
+      "value": 20865
+    },
+    {
+      "source": "Middle English",
+      "target": "Sanskrit",
+      "value": 10517
+    },
+    {
+      "source": "Middle English",
+      "target": "Scots",
+      "value": 15
+    },
+    {
+      "source": "Middle English",
+      "target": "Semitic",
+      "value": 14
+    },
+    {
+      "source": "Middle English",
+      "target": "Slavic",
+      "value": 2269
+    },
+    {
+      "source": "Middle English",
+      "target": "Spanish",
+      "value": 3197
+    },
+    {
+      "source": "Middle English",
+      "target": "Swedish",
+      "value": 11084
+    },
+    {
+      "source": "Middle English",
+      "target": "Tibetan",
+      "value": 6
+    },
+    {
+      "source": "Middle English",
+      "target": "Turkish",
+      "value": 57
+    },
+    {
+      "source": "Middle English",
+      "target": "Twi",
+      "value": 2
+    },
+    {
+      "source": "Middle English",
+      "target": "Welsh",
+      "value": 3358
+    },
+    {
+      "source": "Middle French",
+      "target": "Slavic",
+      "value": 2
+    },
+    {
+      "source": "Middle French",
+      "target": "Spanish",
+      "value": 2
+    },
+    {
+      "source": "Middle High German",
+      "target": "Norwegian",
+      "value": 29
+    },
+    {
+      "source": "Middle High German",
+      "target": "Old Church Slavonic",
+      "value": 367
+    },
+    {
+      "source": "Middle High German",
+      "target": "Old English",
+      "value": 7087
+    },
+    {
+      "source": "Middle High German",
+      "target": "Old French",
+      "value": 296
+    },
+    {
+      "source": "Middle High German",
+      "target": "Old High German",
+      "value": 2937
+    },
+    {
+      "source": "Middle High German",
+      "target": "Old Irish",
+      "value": 5
+    },
+    {
+      "source": "Middle High German",
+      "target": "Old Norse",
+      "value": 3328
+    },
+    {
+      "source": "Middle High German",
+      "target": "Persian",
+      "value": 14
+    },
+    {
+      "source": "Middle High German",
+      "target": "Polish",
+      "value": 18
+    },
+    {
+      "source": "Middle High German",
+      "target": "Portuguese",
+      "value": 9
+    },
+    {
+      "source": "Middle High German",
+      "target": "Provençal",
+      "value": 179
+    },
+    {
+      "source": "Middle High German",
+      "target": "Romance",
+      "value": 64
+    },
+    {
+      "source": "Middle High German",
+      "target": "Russian",
+      "value": 382
+    },
+    {
+      "source": "Middle High German",
+      "target": "Sanskrit",
+      "value": 138
+    },
+    {
+      "source": "Middle High German",
+      "target": "Slavic",
+      "value": 64
+    },
+    {
+      "source": "Middle High German",
+      "target": "Spanish",
+      "value": 304
+    },
+    {
+      "source": "Middle High German",
+      "target": "Swedish",
+      "value": 272
+    },
+    {
+      "source": "Middle High German",
+      "target": "Turkish",
+      "value": 57
+    },
+    {
+      "source": "Middle High German",
+      "target": "Twi",
+      "value": 42
+    },
+    {
+      "source": "Middle High German",
+      "target": "Welsh",
+      "value": 80
+    },
+    {
+      "source": "Middle Irish",
+      "target": "Old Church Slavonic",
+      "value": 248
+    },
+    {
+      "source": "Middle Irish",
+      "target": "Old English",
+      "value": 329
+    },
+    {
+      "source": "Middle Irish",
+      "target": "Old French",
+      "value": 230
+    },
+    {
+      "source": "Middle Irish",
+      "target": "Old High German",
+      "value": 233
+    },
+    {
+      "source": "Middle Irish",
+      "target": "Old Irish",
+      "value": 274
+    },
+    {
+      "source": "Middle Irish",
+      "target": "Old Norse",
+      "value": 294
+    },
+    {
+      "source": "Middle Irish",
+      "target": "Old Persian",
+      "value": 4
+    },
+    {
+      "source": "Middle Irish",
+      "target": "Persian",
+      "value": 4
+    },
+    {
+      "source": "Middle Irish",
+      "target": "Polish",
+      "value": 34
+    },
+    {
+      "source": "Middle Irish",
+      "target": "Portuguese",
+      "value": 13
+    },
+    {
+      "source": "Middle Irish",
+      "target": "Russian",
+      "value": 166
+    },
+    {
+      "source": "Middle Irish",
+      "target": "Sanskrit",
+      "value": 202
+    },
+    {
+      "source": "Middle Irish",
+      "target": "Slavic",
+      "value": 34
+    },
+    {
+      "source": "Middle Irish",
+      "target": "Spanish",
+      "value": 29
+    },
+    {
+      "source": "Middle Irish",
+      "target": "Swedish",
+      "value": 4
+    },
+    {
+      "source": "Middle Irish",
+      "target": "Welsh",
+      "value": 78
+    },
+    {
+      "source": "Modern Greek",
+      "target": "Old English",
+      "value": 128
+    },
+    {
+      "source": "Modern Greek",
+      "target": "Old French",
+      "value": 51
+    },
+    {
+      "source": "Modern Greek",
+      "target": "Old High German",
+      "value": 51
+    },
+    {
+      "source": "Modern Greek",
+      "target": "Old Norse",
+      "value": 51
+    },
+    {
+      "source": "Modern Greek",
+      "target": "Romance",
+      "value": 51
+    },
+    {
+      "source": "Modern Greek",
+      "target": "Spanish",
+      "value": 51
+    },
+    {
+      "source": "Modern Greek",
+      "target": "Swedish",
+      "value": 51
+    },
+    {
+      "source": "Modern Greek",
+      "target": "Welsh",
+      "value": 51
+    },
+    {
+      "source": "Mongo",
+      "target": "Mongolian",
+      "value": 4
+    },
+    {
+      "source": "Mongo",
+      "target": "Old Church Slavonic",
+      "value": 4
+    },
+    {
+      "source": "Mongo",
+      "target": "Old English",
+      "value": 4
+    },
+    {
+      "source": "Mongo",
+      "target": "Old French",
+      "value": 4
+    },
+    {
+      "source": "Mongo",
+      "target": "Old Norse",
+      "value": 4
+    },
+    {
+      "source": "Mongo",
+      "target": "Slavic",
+      "value": 4
+    },
+    {
+      "source": "Mongo",
+      "target": "Spanish",
+      "value": 4
+    },
+    {
+      "source": "Mongolian",
+      "target": "Old Church Slavonic",
+      "value": 4
+    },
+    {
+      "source": "Mongolian",
+      "target": "Old English",
+      "value": 4
+    },
+    {
+      "source": "Mongolian",
+      "target": "Old French",
+      "value": 4
+    },
+    {
+      "source": "Mongolian",
+      "target": "Old Norse",
+      "value": 4
+    },
+    {
+      "source": "Mongolian",
+      "target": "Slavic",
+      "value": 4
+    },
+    {
+      "source": "Mongolian",
+      "target": "Spanish",
+      "value": 4
+    },
+    {
+      "source": "Nahuatl",
+      "target": "Old Church Slavonic",
+      "value": 52
+    },
+    {
+      "source": "Nahuatl",
+      "target": "Old English",
+      "value": 52
+    },
+    {
+      "source": "Nahuatl",
+      "target": "Old Persian",
+      "value": 52
+    },
+    {
+      "source": "Nahuatl",
+      "target": "Persian",
+      "value": 52
+    },
+    {
+      "source": "Nahuatl",
+      "target": "Russian",
+      "value": 52
+    },
+    {
+      "source": "Neapolitan",
+      "target": "Spanish",
+      "value": 1
+    },
+    {
+      "source": "North American Indian",
+      "target": "Ojibwa",
+      "value": 1146
+    },
+    {
+      "source": "North American Indian",
+      "target": "Old English",
+      "value": 1299
+    },
+    {
+      "source": "North American Indian",
+      "target": "Old French",
+      "value": 226
+    },
+    {
+      "source": "North American Indian",
+      "target": "Old High German",
+      "value": 153
+    },
+    {
+      "source": "North American Indian",
+      "target": "Portuguese",
+      "value": 153
+    },
+    {
+      "source": "North American Indian",
+      "target": "Spanish",
+      "value": 153
+    },
+    {
+      "source": "Norwegian",
+      "target": "Old Church Slavonic",
+      "value": 156
+    },
+    {
+      "source": "Norwegian",
+      "target": "Old English",
+      "value": 1073
+    },
+    {
+      "source": "Norwegian",
+      "target": "Old French",
+      "value": 489
+    },
+    {
+      "source": "Norwegian",
+      "target": "Old High German",
+      "value": 350
+    },
+    {
+      "source": "Norwegian",
+      "target": "Old Norse",
+      "value": 589
+    },
+    {
+      "source": "Norwegian",
+      "target": "Russian",
+      "value": 27
+    },
+    {
+      "source": "Norwegian",
+      "target": "Sanskrit",
+      "value": 175
+    },
+    {
+      "source": "Norwegian",
+      "target": "Spanish",
+      "value": 335
+    },
+    {
+      "source": "Norwegian",
+      "target": "Swedish",
+      "value": 703
+    },
+    {
+      "source": "Norwegian",
+      "target": "Yiddish",
+      "value": 273
+    },
+    {
+      "source": "Occitan",
+      "target": "Old French",
+      "value": 6
+    },
+    {
+      "source": "Occitan",
+      "target": "Provençal",
+      "value": 6
+    },
+    {
+      "source": "Ojibwa",
+      "target": "Old English",
+      "value": 1146
+    },
+    {
+      "source": "Old Church Slavonic",
+      "target": "Old English",
+      "value": 50591
+    },
+    {
+      "source": "Old Church Slavonic",
+      "target": "Old French",
+      "value": 477
+    },
+    {
+      "source": "Old Church Slavonic",
+      "target": "Old High German",
+      "value": 41100
+    },
+    {
+      "source": "Old Church Slavonic",
+      "target": "Old Irish",
+      "value": 32569
+    },
+    {
+      "source": "Old Church Slavonic",
+      "target": "Old Norse",
+      "value": 21114
+    },
+    {
+      "source": "Old Church Slavonic",
+      "target": "Old Persian",
+      "value": 6745
+    },
+    {
+      "source": "Old Church Slavonic",
+      "target": "Ossetian",
+      "value": 10
+    },
+    {
+      "source": "Old Church Slavonic",
+      "target": "Persian",
+      "value": 6908
+    },
+    {
+      "source": "Old Church Slavonic",
+      "target": "Polish",
+      "value": 429
+    },
+    {
+      "source": "Old Church Slavonic",
+      "target": "Portuguese",
+      "value": 186
+    },
+    {
+      "source": "Old Church Slavonic",
+      "target": "Russian",
+      "value": 22634
+    },
+    {
+      "source": "Old Church Slavonic",
+      "target": "Sanskrit",
+      "value": 14843
+    },
+    {
+      "source": "Old Church Slavonic",
+      "target": "Slavic",
+      "value": 933
+    },
+    {
+      "source": "Old Church Slavonic",
+      "target": "Spanish",
+      "value": 496
+    },
+    {
+      "source": "Old Church Slavonic",
+      "target": "Swedish",
+      "value": 1774
+    },
+    {
+      "source": "Old Church Slavonic",
+      "target": "Welsh",
+      "value": 2530
+    },
+    {
+      "source": "Old English",
+      "target": "Old French",
+      "value": 22075
+    },
+    {
+      "source": "Old English",
+      "target": "Old High German",
+      "value": 160592
+    },
+    {
+      "source": "Old English",
+      "target": "Old Irish",
+      "value": 36541
+    },
+    {
+      "source": "Old English",
+      "target": "Old Norse",
+      "value": 155484
+    },
+    {
+      "source": "Old English",
+      "target": "Old Persian",
+      "value": 7888
+    },
+    {
+      "source": "Old English",
+      "target": "Old Provençal",
+      "value": 56
+    },
+    {
+      "source": "Old English",
+      "target": "Ossetian",
+      "value": 10
+    },
+    {
+      "source": "Old English",
+      "target": "Persian",
+      "value": 8294
+    },
+    {
+      "source": "Old English",
+      "target": "Phoenician",
+      "value": 1
+    },
+    {
+      "source": "Old English",
+      "target": "Polish",
+      "value": 756
+    },
+    {
+      "source": "Old English",
+      "target": "Portuguese",
+      "value": 883
+    },
+    {
+      "source": "Old English",
+      "target": "Provençal",
+      "value": 174
+    },
+    {
+      "source": "Old English",
+      "target": "Romance",
+      "value": 194
+    },
+    {
+      "source": "Old English",
+      "target": "Romanian",
+      "value": 17
+    },
+    {
+      "source": "Old English",
+      "target": "Russian",
+      "value": 23773
+    },
+    {
+      "source": "Old English",
+      "target": "Sanskrit",
+      "value": 22701
+    },
+    {
+      "source": "Old English",
+      "target": "Scots",
+      "value": 656
+    },
+    {
+      "source": "Old English",
+      "target": "Semitic",
+      "value": 14
+    },
+    {
+      "source": "Old English",
+      "target": "Slavic",
+      "value": 2771
+    },
+    {
+      "source": "Old English",
+      "target": "Slovenian",
+      "value": 27
+    },
+    {
+      "source": "Old English",
+      "target": "Spanish",
+      "value": 6048
+    },
+    {
+      "source": "Old English",
+      "target": "Swedish",
+      "value": 29724
+    },
+    {
+      "source": "Old English",
+      "target": "Turkish",
+      "value": 63
+    },
+    {
+      "source": "Old English",
+      "target": "Twi",
+      "value": 16
+    },
+    {
+      "source": "Old English",
+      "target": "Welsh",
+      "value": 5945
+    },
+    {
+      "source": "Old English",
+      "target": "Yiddish",
+      "value": 376
+    },
+    {
+      "source": "Old French",
+      "target": "Old High German",
+      "value": 1896
+    },
+    {
+      "source": "Old French",
+      "target": "Old Irish",
+      "value": 339
+    },
+    {
+      "source": "Old French",
+      "target": "Old Norse",
+      "value": 14913
+    },
+    {
+      "source": "Old French",
+      "target": "Old Persian",
+      "value": 49
+    },
+    {
+      "source": "Old French",
+      "target": "Old Provençal",
+      "value": 205
+    },
+    {
+      "source": "Old French",
+      "target": "Pali",
+      "value": 77
+    },
+    {
+      "source": "Old French",
+      "target": "Persian",
+      "value": 130
+    },
+    {
+      "source": "Old French",
+      "target": "Phoenician",
+      "value": 2
+    },
+    {
+      "source": "Old French",
+      "target": "Polish",
+      "value": 60
+    },
+    {
+      "source": "Old French",
+      "target": "Portuguese",
+      "value": 1866
+    },
+    {
+      "source": "Old French",
+      "target": "Provençal",
+      "value": 578
+    },
+    {
+      "source": "Old French",
+      "target": "Romance",
+      "value": 597
+    },
+    {
+      "source": "Old French",
+      "target": "Romanian",
+      "value": 17
+    },
+    {
+      "source": "Old French",
+      "target": "Russian",
+      "value": 309
+    },
+    {
+      "source": "Old French",
+      "target": "Sanskrit",
+      "value": 632
+    },
+    {
+      "source": "Old French",
+      "target": "Scots",
+      "value": 10
+    },
+    {
+      "source": "Old French",
+      "target": "Semitic",
+      "value": 26
+    },
+    {
+      "source": "Old French",
+      "target": "Slavic",
+      "value": 472
+    },
+    {
+      "source": "Old French",
+      "target": "Spanish",
+      "value": 7092
+    },
+    {
+      "source": "Old French",
+      "target": "Swedish",
+      "value": 1488
+    },
+    {
+      "source": "Old French",
+      "target": "Syriac",
+      "value": 1
+    },
+    {
+      "source": "Old French",
+      "target": "Tibetan",
+      "value": 6
+    },
+    {
+      "source": "Old French",
+      "target": "Turkish",
+      "value": 4
+    },
+    {
+      "source": "Old French",
+      "target": "Vai",
+      "value": 36
+    },
+    {
+      "source": "Old French",
+      "target": "Walloon",
+      "value": 1
+    },
+    {
+      "source": "Old French",
+      "target": "Welsh",
+      "value": 318
+    },
+    {
+      "source": "Old High German",
+      "target": "Old Irish",
+      "value": 34078
+    },
+    {
+      "source": "Old High German",
+      "target": "Old Norse",
+      "value": 99880
+    },
+    {
+      "source": "Old High German",
+      "target": "Old Persian",
+      "value": 5681
+    },
+    {
+      "source": "Old High German",
+      "target": "Old Provençal",
+      "value": 14
+    },
+    {
+      "source": "Old High German",
+      "target": "Ossetian",
+      "value": 10
+    },
+    {
+      "source": "Old High German",
+      "target": "Persian",
+      "value": 5979
+    },
+    {
+      "source": "Old High German",
+      "target": "Polish",
+      "value": 557
+    },
+    {
+      "source": "Old High German",
+      "target": "Portuguese",
+      "value": 297
+    },
+    {
+      "source": "Old High German",
+      "target": "Provençal",
+      "value": 33
+    },
+    {
+      "source": "Old High German",
+      "target": "Romance",
+      "value": 146
+    },
+    {
+      "source": "Old High German",
+      "target": "Russian",
+      "value": 23238
+    },
+    {
+      "source": "Old High German",
+      "target": "Sanskrit",
+      "value": 16005
+    },
+    {
+      "source": "Old High German",
+      "target": "Scots",
+      "value": 646
+    },
+    {
+      "source": "Old High German",
+      "target": "Semitic",
+      "value": 8
+    },
+    {
+      "source": "Old High German",
+      "target": "Slavic",
+      "value": 2587
+    },
+    {
+      "source": "Old High German",
+      "target": "Slovenian",
+      "value": 27
+    },
+    {
+      "source": "Old High German",
+      "target": "Spanish",
+      "value": 2853
+    },
+    {
+      "source": "Old High German",
+      "target": "Swedish",
+      "value": 16251
+    },
+    {
+      "source": "Old High German",
+      "target": "Turkish",
+      "value": 57
+    },
+    {
+      "source": "Old High German",
+      "target": "Twi",
+      "value": 7
+    },
+    {
+      "source": "Old High German",
+      "target": "Welsh",
+      "value": 4711
+    },
+    {
+      "source": "Old High German",
+      "target": "Yiddish",
+      "value": 90
+    },
+    {
+      "source": "Old Irish",
+      "target": "Old Norse",
+      "value": 12522
+    },
+    {
+      "source": "Old Irish",
+      "target": "Old Persian",
+      "value": 2209
+    },
+    {
+      "source": "Old Irish",
+      "target": "Persian",
+      "value": 2369
+    },
+    {
+      "source": "Old Irish",
+      "target": "Polish",
+      "value": 133
+    },
+    {
+      "source": "Old Irish",
+      "target": "Portuguese",
+      "value": 35
+    },
+    {
+      "source": "Old Irish",
+      "target": "Provençal",
+      "value": 5
+    },
+    {
+      "source": "Old Irish",
+      "target": "Russian",
+      "value": 19640
+    },
+    {
+      "source": "Old Irish",
+      "target": "Sanskrit",
+      "value": 5543
+    },
+    {
+      "source": "Old Irish",
+      "target": "Slavic",
+      "value": 900
+    },
+    {
+      "source": "Old Irish",
+      "target": "Spanish",
+      "value": 65
+    },
+    {
+      "source": "Old Irish",
+      "target": "Swedish",
+      "value": 2582
+    },
+    {
+      "source": "Old Irish",
+      "target": "Welsh",
+      "value": 4027
+    },
+    {
+      "source": "Old Norse",
+      "target": "Old Persian",
+      "value": 7771
+    },
+    {
+      "source": "Old Norse",
+      "target": "Old Provençal",
+      "value": 14
+    },
+    {
+      "source": "Old Norse",
+      "target": "Ossetian",
+      "value": 10
+    },
+    {
+      "source": "Old Norse",
+      "target": "Persian",
+      "value": 7820
+    },
+    {
+      "source": "Old Norse",
+      "target": "Polish",
+      "value": 573
+    },
+    {
+      "source": "Old Norse",
+      "target": "Portuguese",
+      "value": 210
+    },
+    {
+      "source": "Old Norse",
+      "target": "Provençal",
+      "value": 38
+    },
+    {
+      "source": "Old Norse",
+      "target": "Romance",
+      "value": 88
+    },
+    {
+      "source": "Old Norse",
+      "target": "Russian",
+      "value": 5296
+    },
+    {
+      "source": "Old Norse",
+      "target": "Sanskrit",
+      "value": 17962
+    },
+    {
+      "source": "Old Norse",
+      "target": "Scots",
+      "value": 645
+    },
+    {
+      "source": "Old Norse",
+      "target": "Slavic",
+      "value": 2602
+    },
+    {
+      "source": "Old Norse",
+      "target": "Slovenian",
+      "value": 27
+    },
+    {
+      "source": "Old Norse",
+      "target": "Spanish",
+      "value": 2828
+    },
+    {
+      "source": "Old Norse",
+      "target": "Swedish",
+      "value": 26941
+    },
+    {
+      "source": "Old Norse",
+      "target": "Turkish",
+      "value": 57
+    },
+    {
+      "source": "Old Norse",
+      "target": "Welsh",
+      "value": 4211
+    },
+    {
+      "source": "Old Norse",
+      "target": "Yiddish",
+      "value": 139
+    },
+    {
+      "source": "Old Persian",
+      "target": "Persian",
+      "value": 7915
+    },
+    {
+      "source": "Old Persian",
+      "target": "Polish",
+      "value": 6
+    },
+    {
+      "source": "Old Persian",
+      "target": "Russian",
+      "value": 87
+    },
+    {
+      "source": "Old Persian",
+      "target": "Sanskrit",
+      "value": 7122
+    },
+    {
+      "source": "Old Persian",
+      "target": "Spanish",
+      "value": 33
+    },
+    {
+      "source": "Old Persian",
+      "target": "Swedish",
+      "value": 9
+    },
+    {
+      "source": "Old Persian",
+      "target": "Turkish",
+      "value": 6
+    },
+    {
+      "source": "Old Persian",
+      "target": "Welsh",
+      "value": 11
+    },
+    {
+      "source": "Old Provençal",
+      "target": "Portuguese",
+      "value": 10
+    },
+    {
+      "source": "Old Provençal",
+      "target": "Provençal",
+      "value": 214
+    },
+    {
+      "source": "Old Provençal",
+      "target": "Spanish",
+      "value": 38
+    },
+    {
+      "source": "Ossetian",
+      "target": "Russian",
+      "value": 10
+    },
+    {
+      "source": "Ossetian",
+      "target": "Sanskrit",
+      "value": 10
+    },
+    {
+      "source": "Ossetian",
+      "target": "Swedish",
+      "value": 10
+    },
+    {
+      "source": "Pali",
+      "target": "Spanish",
+      "value": 77
+    },
+    {
+      "source": "Persian",
+      "target": "Polish",
+      "value": 8
+    },
+    {
+      "source": "Persian",
+      "target": "Portuguese",
+      "value": 8
+    },
+    {
+      "source": "Persian",
+      "target": "Provençal",
+      "value": 5
+    },
+    {
+      "source": "Persian",
+      "target": "Russian",
+      "value": 98
+    },
+    {
+      "source": "Persian",
+      "target": "Sanskrit",
+      "value": 7489
+    },
+    {
+      "source": "Persian",
+      "target": "Semitic",
+      "value": 1
+    },
+    {
+      "source": "Persian",
+      "target": "Spanish",
+      "value": 48
+    },
+    {
+      "source": "Persian",
+      "target": "Swedish",
+      "value": 78
+    },
+    {
+      "source": "Persian",
+      "target": "Turkish",
+      "value": 20
+    },
+    {
+      "source": "Persian",
+      "target": "Welsh",
+      "value": 169
+    },
+    {
+      "source": "Phoenician",
+      "target": "Semitic",
+      "value": 2
+    },
+    {
+      "source": "Phoenician",
+      "target": "Spanish",
+      "value": 1
+    },
+    {
+      "source": "Polish",
+      "target": "Portuguese",
+      "value": 1
+    },
+    {
+      "source": "Polish",
+      "target": "Russian",
+      "value": 625
+    },
+    {
+      "source": "Polish",
+      "target": "Sanskrit",
+      "value": 106
+    },
+    {
+      "source": "Polish",
+      "target": "Slavic",
+      "value": 548
+    },
+    {
+      "source": "Polish",
+      "target": "Spanish",
+      "value": 192
+    },
+    {
+      "source": "Polish",
+      "target": "Swedish",
+      "value": 26
+    },
+    {
+      "source": "Polish",
+      "target": "Turkish",
+      "value": 6
+    },
+    {
+      "source": "Polish",
+      "target": "Welsh",
+      "value": 24
+    },
+    {
+      "source": "Portuguese",
+      "target": "Provençal",
+      "value": 51
+    },
+    {
+      "source": "Portuguese",
+      "target": "Romance",
+      "value": 423
+    },
+    {
+      "source": "Portuguese",
+      "target": "Russian",
+      "value": 195
+    },
+    {
+      "source": "Portuguese",
+      "target": "Sanskrit",
+      "value": 2
+    },
+    {
+      "source": "Portuguese",
+      "target": "Slavic",
+      "value": 423
+    },
+    {
+      "source": "Portuguese",
+      "target": "Spanish",
+      "value": 1931
+    },
+    {
+      "source": "Portuguese",
+      "target": "Swedish",
+      "value": 32
+    },
+    {
+      "source": "Portuguese",
+      "target": "Tai",
+      "value": 2
+    },
+    {
+      "source": "Portuguese",
+      "target": "Tamil",
+      "value": 2
+    },
+    {
+      "source": "Portuguese",
+      "target": "Telugu",
+      "value": 2
+    },
+    {
+      "source": "Portuguese",
+      "target": "Turkish",
+      "value": 8
+    },
+    {
+      "source": "Portuguese",
+      "target": "Welsh",
+      "value": 16
+    },
+    {
+      "source": "Provençal",
+      "target": "Sanskrit",
+      "value": 5
+    },
+    {
+      "source": "Provençal",
+      "target": "Spanish",
+      "value": 427
+    },
+    {
+      "source": "Provençal",
+      "target": "Turkish",
+      "value": 2
+    },
+    {
+      "source": "Provençal",
+      "target": "Welsh",
+      "value": 5
+    },
+    {
+      "source": "Romance",
+      "target": "Russian",
+      "value": 2
+    },
+    {
+      "source": "Romance",
+      "target": "Sanskrit",
+      "value": 64
+    },
+    {
+      "source": "Romance",
+      "target": "Slavic",
+      "value": 487
+    },
+    {
+      "source": "Romance",
+      "target": "Spanish",
+      "value": 503
+    },
+    {
+      "source": "Romance",
+      "target": "Swedish",
+      "value": 115
+    },
+    {
+      "source": "Romance",
+      "target": "Welsh",
+      "value": 51
+    },
+    {
+      "source": "Romanian",
+      "target": "Russian",
+      "value": 17
+    },
+    {
+      "source": "Romanian",
+      "target": "Spanish",
+      "value": 17
+    },
+    {
+      "source": "Romanian",
+      "target": "Swedish",
+      "value": 17
+    },
+    {
+      "source": "Russian",
+      "target": "Sanskrit",
+      "value": 3344
+    },
+    {
+      "source": "Russian",
+      "target": "Semitic",
+      "value": 1
+    },
+    {
+      "source": "Russian",
+      "target": "Slavic",
+      "value": 831
+    },
+    {
+      "source": "Russian",
+      "target": "Spanish",
+      "value": 428
+    },
+    {
+      "source": "Russian",
+      "target": "Swedish",
+      "value": 143
+    },
+    {
+      "source": "Russian",
+      "target": "Turkish",
+      "value": 15
+    },
+    {
+      "source": "Russian",
+      "target": "Welsh",
+      "value": 724
+    },
+    {
+      "source": "Sanskrit",
+      "target": "Semitic",
+      "value": 3
+    },
+    {
+      "source": "Sanskrit",
+      "target": "Slavic",
+      "value": 1020
+    },
+    {
+      "source": "Sanskrit",
+      "target": "Spanish",
+      "value": 252
+    },
+    {
+      "source": "Sanskrit",
+      "target": "Swedish",
+      "value": 1345
+    },
+    {
+      "source": "Sanskrit",
+      "target": "Thai",
+      "value": 1
+    },
+    {
+      "source": "Sanskrit",
+      "target": "Turkish",
+      "value": 1
+    },
+    {
+      "source": "Sanskrit",
+      "target": "Twi",
+      "value": 33
+    },
+    {
+      "source": "Sanskrit",
+      "target": "Welsh",
+      "value": 2365
+    },
+    {
+      "source": "Scots",
+      "target": "Swedish",
+      "value": 5
+    },
+    {
+      "source": "Semitic",
+      "target": "Spanish",
+      "value": 12
+    },
+    {
+      "source": "Semitic",
+      "target": "Turkish",
+      "value": 1
+    },
+    {
+      "source": "Slavic",
+      "target": "Spanish",
+      "value": 573
+    },
+    {
+      "source": "Slavic",
+      "target": "Swedish",
+      "value": 1520
+    },
+    {
+      "source": "Slavic",
+      "target": "Welsh",
+      "value": 778
+    },
+    {
+      "source": "Spanish",
+      "target": "Swedish",
+      "value": 633
+    },
+    {
+      "source": "Spanish",
+      "target": "Tai",
+      "value": 2
+    },
+    {
+      "source": "Spanish",
+      "target": "Turkish",
+      "value": 14
+    },
+    {
+      "source": "Spanish",
+      "target": "Welsh",
+      "value": 227
+    },
+    {
+      "source": "Swedish",
+      "target": "Turkish",
+      "value": 63
+    },
+    {
+      "source": "Swedish",
+      "target": "Welsh",
+      "value": 2349
+    },
+    {
+      "source": "Swedish",
+      "target": "Yiddish",
+      "value": 3
+    },
+    {
+      "source": "Tamil",
+      "target": "Telugu",
+      "value": 2
+    },
+    {
+      "source": "Turkish",
+      "target": "Welsh",
+      "value": 6
+    }
+  ]
+}
